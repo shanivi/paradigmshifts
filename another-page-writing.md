@@ -1,7 +1,7 @@
 ---
 layout: default
 category: Writing
-title: Writing
+title: Events
 nav_order: 3
 ---
 
