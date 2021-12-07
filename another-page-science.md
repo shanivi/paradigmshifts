@@ -1,7 +1,7 @@
 ---
 layout: default
 category: Art Gallery
-title: VR Art Gallery
+title: VR Gallery
 nav_order: 1
 ---
 
