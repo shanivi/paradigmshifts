@@ -1,7 +1,7 @@
 ---
 layout: default
 category: TL
-title: Events
+title: Timeline
 nav_order: 2
 ---
 
