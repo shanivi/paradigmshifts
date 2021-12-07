@@ -1,7 +1,7 @@
 ---
 layout: default
-category: Science
-title: Science
+category: Art Gallery
+title: VR Art Gallery
 nav_order: 1
 ---
 
