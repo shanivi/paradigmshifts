@@ -15,59 +15,11 @@ To navigate the VR art gallery, you use the arrow keys on your keyboard, and to 
 * * *
 * * *
 
-### Role of Poly-ADP(Ribose) Polymerase-1 in Trophoblast Differentiation
+Elaboration about rooms and room themes:
+There are four different VR art gallery rooms for you to explore, and all of them are themed differently. 
+- Room one, 1500s to 1600s: This room holds art associated with the scientific discoveries made during the early days of scientific discovery. To match this, the room is themed with brown flooring and arches as decorations, as a way to represent the prehistoric Earth. Our understanding of science in this era, though decently complex, was still very early — reminiscent of the early Earth itself.
+- Room two, 1700s: This room has art associated with the scientific discoveries made during the 1700s, as we began to understand more about the world around us with more accuracy and complexity. In this era, we began to have many individuals speculate about how things in their current state came to be, and their precursors. This era also saw many social movements, such as the American and French Revolutions. This room is themed to resemble a desert, as a means to show that our understanding of the world around us in a scientific manner was still a bit "dry."
+- Room three, 1800s: This era was incredibly important for science, and the art reflects this moment in time. Here, we had the publication of the Origin and, which was a monumental paradigm shift in science and society. There were so many scientific discoveries made here, and this time period really exemplifies a goldmine of science. Hence, the room theme is "goldmine."
+- Room four, 1900s to now: This era is more modern, and the art pieces also somewhat reflect that. This era saw science become even more precise — we see the identificaton of DNA's structure in this era, as well as the foundation of many philosophy of science texts that allow us to see scientific discovery in a whole new light. To reflect this futurism, this room is themed to resemble "tron."
 
-**Summer 2019** 
-
-> UT Southwestern Medical Center, Dallas, Texas
->
-> Kraus Lab, Green Center for Reproductive Biology Sciences
-
-For this project, a cell culture model of placental trophoblast differentiation was used in order to identify PARP inhibitors that would block the activity of PARP-1 while also not causing cytotoxicity. 
-
-This research project required PARP inhibitor assays as one large component of experimentation, and cell growth/toxicity assays as another large component, while I additionally performed other laboratory techniques such as Bradford assays. I also did a significant amount of Western blotting; I went through the entire process a multitude of times, even making my own gels. From the lysis process and protein quantitation steps to finally exposing and imaging the blots, as well as stripping and reprobing, I eventually gained the skill of being able to effectively Western blot and showcase my results. 
-
-I ultimately created a research poster which I presented at the UT Southwestern STARS poster session at the end of my eight weeks in the lab, as well as having the opportunity to present my project at a lab meeting in the Kraus Lab. I also presented both my poster and a presentation of my research later in October 2019 at Irving High School’s Biomedical Sciences Academy Science Emissary Presentation.
-
-
-![STARS Poster Pic](/images/IMG_20190726_190142.jpg)
-
-* * *
-* * *
-
-### Human Perception and Time of Day Determination Based on Visual Cues
-
-**Summer 2019**
-
-> Pioneer Academics, Virtual Research Program
->
-> Neuroscience Division
-
-Collaborated with a Johns Hopkins professor in the neuroscience program topic, "Vision
-Impossible: An Introduction to the Psychology and Neuroscience of Seeing." 
-
-For my project, I conducted research virtually based on a perception-centered survey experiment and wrote a paper based on my findings. This research allowed me to acquire skills to more effectively conduct literature searches and write papers for journal submission, as well as how to synthesize researched sources into my own paper and cite them.
-
-![Pioneer Pic](/images/piopic.jpg)
-
-* * *
-* * *
-
-### Genetics of _C. elegans_ in Relation to Behavioral Expression
-
-**August 2018 to January 2019**
-
-> Dallas Regional Science and Engineering Fair, Dallas, Texas
->
-> Cell and Molecular Biology Division
-
-For this project, I explored the effects of bli-1 gene silencing through RNAi via feeding on the locomotion of _C. elegans_, ultimately to determine the impact of the produced blistered phenotype on organism behavior. I was mentored by a professor in the biology department at Texas Woman's University for this project.
-
-This project was [awarded](https://www.sivb.org/InVitroReport/issue-53-3-july-september-2019/isef-high-school-student-awards-2/) Outstanding Achievement in In Vitro Biology from the Society for In Vitro Biology, and Honorable Mention in the Cell and Molecular Biology division. 
-
-![C Elegans](/images/elegans.jpg)
-
-* * *
-* * *
-* * *
-
+Please note, however: due to the nature of the code, the doors don't appear in chronological order when you first get to the VR Art Gallery landing/home page. However, the room names are above each respective door, so navigation is still fine. 
