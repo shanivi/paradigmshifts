@@ -1,5 +1,6 @@
-## Nice to meet you!
-### I'm Shanivi Srikonda, a first-year at Harvard in the Class of 2024 concentrating in Biomedical Engieering.
+# Darwinism and (R)evolution: Paradigm Shifts and Science Through Time
+## Welcome to my final project for GenEd 1004! This site will take you through many things: (1) A virtual art gallery, (2) a timeline of how science has changed throughout history, especially with respect to evolution and Darwin/Wallace's ideas, (3) how art and science are interrelated and an exploration of this scientific timeline through the eyes of art.
+### Here is how you enter the virtual art gallery.
 
 ![Shanivi Lab Pic](/images/shanivipicic.jpg)
 
