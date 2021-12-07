@@ -1,11 +1,11 @@
 ---
 layout: default
-category: CS
-title: CS
+category: TL
+title: Timeline
 nav_order: 2
 ---
 
-## I'm also interested in computer science. Check out some of the things I've made below!
+## Timeline of events
 
 * * * 
 * * *
