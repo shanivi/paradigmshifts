@@ -6,18 +6,9 @@ nav_order: 2
 ---
 
 ## Timeline of events
+ 
+My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science Through Time" because I was fascinated by all of the different scientific dicoveries through time that we learned about in class. All of these discoveries, ideas, and theories were revolutionary in some way, and helped shift the paradigms of their respective times. Thanks to these various discovereies, people were able to see the world in a new or different light than before. Moreover, all of these ideas are also related to Darwin and Wallace's ideas in some way — whether these scientific discoveries/theories influenced the theory of evolution directly or were helpful to Darwin in writing his monumental book, all of these ideas are related to evolution (and GenEd 1004).
 
-* * * 
-* * *
-* * *
-
-### _Frankenstein_ Twitter Bot
-
-> Available [Here](https://twitter.com/BotFrankenstein)
-
-Inspired by Mary Wollstonecraft Shelley's famous 1823 novel that facilitated the creation of the science-fiction genre, this Twitter bot tweets out lines from _Frankenstein_ approximately every four hours for fans of the novel to enjoy. I learned a lot about Twitter API and scripting through this project, and in creating this bot, I also saw new ways to script, which I can implement in futureprojects.
-
-![frankenstein bot pic](/images/frankbot.JPEG)
-
-* * *
-* * *
+***
+***
+***
