@@ -1,6 +1,5 @@
 ---
 layout: default
-category: Timeline
 title: another
 ---
 
