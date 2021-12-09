@@ -34,7 +34,7 @@ placeholder. [Read more].
 
 ***
 
-## 1551-1558 and 1587: Conrad Gessner’s History of the Animals published ([6](https://www.loc.gov/item/06004347/)
+## 1551-1558 and 1587: Conrad Gessner’s History of the Animals published ([6](https://www.loc.gov/item/06004347/))
 
 ### Art Piece: [Mosaic Pavement with Birds, from Feleet Village Building, Roman, 4th-5th Century CE](https://hvrd.art/o/291656)
 
@@ -43,4 +43,51 @@ placeholder. [Read more].
 placeholder. [Read more].
 
 ***
+
+## 1620: Francis Bacon’s Novum Organum published ([8](https://oll.libertyfund.org/title/bacon-novum-organum))
+
+### Art Piece: [Untitled (scientists projecting image on screen), Jack Gould, 1954](https://hvrd.art/o/142728)
+
+### Paper: [Meta-research: Evaluation and Improvement of Research Methods and Practices](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592065/)
+
+***
+
+## 1618-1621: Printing of Johannes Kepler’s Epitome Astronomiae Copernicanae ([9](https://books.google.com/books?id=KUE1AAAAcAAJ&printsec=frontcover#v=onepage&q&f=false))
+
+### Art Piece: [Celestial Sphere, Paul Manship, 1934](https://hvrd.art/o/299810)
+
+### Paper: [GW Ori: circumtriple rings and planets](https://academic.oup.com/mnras/article-abstract/508/1/392/6371904?redirectedFrom=fulltext)
+
+***
+
+## 1667: Nicolas Steno dissects the head of a shark and publishes his findings ([11](https://www.e-education.psu.edu/earth520/node/1803))
+
+### Art Piece: [Youth Saved from a Shark, Valentine Green after John Singleton Copley, 1779](https://hvrd.art/o/277538)
+
+### Paper: [Tooth morphology elucidates shark evolution across the end-Cretaceous mass extinction](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001108)
+
+***
+
+## 1668-1704: John Ray’s Historia Plantarum published ([12](https://library.si.edu/digital-library/book/historia-plantarum-ray-john))
+
+### Art Piece: [A Serpentine Plant (Ophioxylum Serpentinum), Aert Schouman, 18th Century](https://hvrd.art/o/360614)
+
+### Paper: [Plant diversity in a changing world: Status, trends, and conservation needs](https://www.sciencedirect.com/science/article/pii/S2468265916300300)
+
+***
+***
+***
+
+# <em>1700s</em>
+
+1733-1734: Alexander Pope’s Essay on Man published (13)
+Art Piece: https://hvrd.art/o/306610
+Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5869357/
+
+
+
+
+
+
+
 
