@@ -19,3 +19,28 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 Art Piece: [Void, Paul Nash, 1924](https://harvardartmuseums.org/collections/object/261104)
 
 Scientific Paper: [A Production of Amino Acids under Possible Primitive Earth Conditions](https://www.jstor.org/stable/1680569?origin=JSTOR-pdf)
+
+placeholder. [Read more].
+
+***
+
+1543: First printing of Copernicus’ On the Revolutions of the Heavenly Spheres ([5](https://ads.harvard.edu/books/1543droc.book/))
+
+Art Piece: [Nicolaus Copernicus, Maxim Kopf, 20th Century](https://hvrd.art/o/305233)
+
+Paper: [Long-term integrations and stability of planetary orbits in our Solar system](https://academic.oup.com/mnras/article/336/2/483/1158666)
+
+placeholder. [Read more].
+
+***
+
+1551-1558 and 1587: Conrad Gessner’s History of the Animals published ([6](https://www.loc.gov/item/06004347/)
+
+Art Piece: [Mosaic Pavement with Birds, from Feleet Village Building, Roman, 4th-5th Century CE](https://hvrd.art/o/291656)
+
+Paper: [Review: Animal Taxonomy: Theory and Practice](https://www.jstor.org/stable/2819440)
+
+placeholder. [Read more].
+
+***
+
