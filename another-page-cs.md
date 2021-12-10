@@ -80,9 +80,82 @@ placeholder. [Read more].
 
 # <em>1700s</em>
 
-1733-1734: Alexander Pope’s Essay on Man published (13)
-Art Piece: https://hvrd.art/o/306610
-Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5869357/
+## 1733-1734: Alexander Pope’s Essay on Man published ([13](https://www.gutenberg.org/files/2428/2428-h/2428-h.htm))
+
+### Art Piece: [Nude Male, for "Sadak...", and Seated Figure; verso: Figure and Animal Sketches, William Rimmer, 1867-1868](https://hvrd.art/o/306610)
+
+### Paper: [How scientists perceive the evolutionary origin of human traits: Results of a survey study
+](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5869357/)
+
+***
+
+## 1735: First edition of Carl Linnaeus’ Systema Naturae printed in the Netherlands ([14](https://www.biodiversitylibrary.org/item/10277#page/3/mode/1up))
+
+### Art Piece: [Stamp Seal in the Shape of a Recumbent Bull: Two Dogs?, Mesopotamian, c. 3100-2900 BCE](https://hvrd.art/o/292376)
+
+### Paper: [The integrative future of taxonomy](https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-7-16)
+
+***
+
+## 1776: The Wealth of Nations by Adam Smith is published ([16](https://www.biodiversitylibrary.org/bibliography/60802))
+
+### Art Piece: [Forty Litrae of Syracuse, Greek, 344 BCE-335 BCE](https://hvrd.art/o/188122)
+
+### Paper: [Increasing returns, monopolistic competition, and international trade](https://www.sciencedirect.com/science/article/abs/pii/0022199679900175)
+
+***
+
+## 1788: James Hutton’s paper Theory of the Earth printed, introduces uniformitarianism ([17](https://www.smithsonianmag.com/history/father-modern-geology-youve-never-heard-180960203/))
+
+### Art Piece: the front cover
+
+### Paper: [Uniformitarianism. An Inquiry into Principle, Theory, and Method in Geohistory and Biohistory
+](https://link.springer.com/chapter/10.1007/978-1-4615-9585-4_2)
+
+***
+
+## 1794: Erasmus Darwin, Charles Darwin’s grandfather, publishes Zoonomia ([18](http://darwin-online.org.uk/converted/pdf/1794_Zoonomia_A967.1.pdf))
+
+### Art Piece: [Three Recumbent Animals on a Plaque, Near Eastern, 9th-7th century BCE](https://hvrd.art/o/343020)
+
+### Paper: [The Early “Evolution” of “Punctuated Equilibria”
+](https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-008-0032-0)
+
+***
+
+## 1798: Thomas Malthus’ An Essay on the Principle of Population is published anonymously; Malthus is later revealed to be the author ([19](http://www.esp.org/books/malthus/population/malthus.pdf), [20](https://www.econlib.org/library/Malthus/malPlong.html))
+
+### Art Piece: [Government, City: United States: Social Conditions, United States: Census of 1900: Proportion of Urban to Total Population, by States and Territories, at each Census.
+, Unidentified Artist, c. 1903](https://hvrd.art/o/18637)
+
+### Paper: [Population, poverty and economic development](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2781831/)
+
+***
+***
+***
+
+# <em>1800s</em>
+
+## 1802: William Paley’s work, Natural Theology is published, giving the famous “Divine Watchmaker” analogy ([21](https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-009-0184-6), [22](https://books.google.com/books/about/Natural_Theology.html?id=fxLXAAAAMAAJ))
+
+### Art Piece: [Carved Tall-Case Hall Clock with Pendulum, Dutch, 18th Century](https://hvrd.art/o/327015)
+
+### Paper: [A fairytale creation or the beginning of everything: Students’ pre-instructional conceptions about the Big Bang theory
+](https://www.sciencedirect.com/science/article/pii/S2213020916302427)
+
+***
+
+## 1809: Jean-Baptiste Lamarck’s Philosophie Zoologique is published ([23](https://www.ucl.ac.uk/taxome/jim/Mim/lamarck_contents.html))
+
+### Art Piece: [Giraffes, John Bernard Flannagan, 20th Century](https://hvrd.art/o/256790)
+
+### Paper: [Lamarckism and epigenetic inheritance: a clarification](https://link.springer.com/article/10.1007/s10539-018-9642-2)
+
+***
+ 
+
+
+
 
 
 
