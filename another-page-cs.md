@@ -16,7 +16,7 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 
 ## Between 6th and 5th centuries BC: Approximate writing of <em>the Book of Genesis</em> ([1](https://books.google.com/books?id=3surkLVdw3UC&pg=PA12), [2](https://books.google.com/books?id=owwhpmIVgSAC), [3](https://web.mit.edu/jywang/www/cef/Bible/NIV/NIV_Bible/GEN+1.html#:~:text=Bible%20Gateway%20Genesis%201%20%3A%3A%20NIV&text=In%20the%20beginning%20God%20created%20the%20heavens%20and%20the%20earth.&text=Now%20the%20earth%20was%20formless,was%20hovering%20over%20the%20waters.)); Approximately 8 CE: The Metamorphoses, Ovid ([4](https://www.britannica.com/topic/Metamorphoses-poem-by-Ovid))
 
-### Art Piece: [Void, Paul Nash, 1924](https://harvardartmuseums.org/collections/object/261104)
+### Art Piece: [Circular Dish with Phoenix-and-Cloud Decor, Chinese, Jiajing period, 1522-1566](https://harvardartmuseums.org/collections/object/205500?position=31)
 
 ### Scientific Paper: [A Production of Amino Acids under Possible Primitive Earth Conditions](https://www.jstor.org/stable/1680569?origin=JSTOR-pdf)
 
@@ -26,7 +26,7 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 
 ## 1543: First printing of Copernicus’ <em>On the Revolutions of the Heavenly Spheres</em> ([5](https://ads.harvard.edu/books/1543droc.book/))
 
-### Art Piece: [Nicolaus Copernicus, Maxim Kopf, 20th Century](https://hvrd.art/o/305233)
+### Art Piece: [The Planets: Saturn, Petrus Firens, 17th Century](https://harvardartmuseums.org/collections/object/244720?position=34)
 
 ### Paper: [Long-term integrations and stability of planetary orbits in our Solar system](https://academic.oup.com/mnras/article/336/2/483/1158666)
 
@@ -48,7 +48,7 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 
 ## 1620: Francis Bacon’s <em>Novum Organum</em> published ([8](https://oll.libertyfund.org/title/bacon-novum-organum))
 
-### Art Piece: [Untitled (scientists projecting image on screen), Jack Gould, 1954](https://hvrd.art/o/142728)
+### Art Piece: [Sketch for "The Discoverer" Fresco, Assembly Chamber, State Capitol, Albany, New York, William Morris Hunt, 1878](https://harvardartmuseums.org/collections/object/308485?position=48)
 
 ### Paper: [Meta-research: Evaluation and Improvement of Research Methods and Practices](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592065/)
 
@@ -58,7 +58,7 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 
 ## 1618-1621: Printing of Johannes Kepler’s <em>Epitome Astronomiae Copernicanae</em> ([9](https://books.google.com/books?id=KUE1AAAAcAAJ&printsec=frontcover#v=onepage&q&f=false))
 
-### Art Piece: [Celestial Sphere, Paul Manship, 1934](https://hvrd.art/o/299810)
+### Art Piece: [The Seven Planets, Johann Sadeler I, Netherlandish, c. 1585](https://harvardartmuseums.org/collections/object/370327?position=13)
 
 ### Paper: [GW Ori: circumtriple rings and planets](https://academic.oup.com/mnras/article-abstract/508/1/392/6371904?redirectedFrom=fulltext)
 
@@ -132,7 +132,7 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 
 ## 1788: James Hutton’s paper <em>Theory of the Earth</em> printed, introduces uniformitarianism ([17](https://www.smithsonianmag.com/history/father-modern-geology-youve-never-heard-180960203/))
 
-### Art Piece: the front cover
+### Art Piece: [Rocky Mountains, "Lander's Peak", Albert Bierstadt, 1863](https://harvardartmuseums.org/collections/object/303976?position=2)
 
 ### Paper: [Uniformitarianism. An Inquiry into Principle, Theory, and Method in Geohistory and Biohistory](https://link.springer.com/chapter/10.1007/978-1-4615-9585-4_2)
 
@@ -254,7 +254,7 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 
 ## 1869: Friedrich Miescher isolates “nuclein” from cell nuclei ([32](https://www.genome.gov/25520232/online-education-kit-1869-dna-first-isolated), [33](https://dnalc.cshl.edu/view/16003-Miescher-and-the-isolation-of-DNA.html))
 
-### Art Piece: [Laboratory Still Life No. 4, Tony Cragg, 1988](https://harvardartmuseums.org/collections/object/99364?position=35)
+### Art Piece: [Alchemist's Laboratory, André Louis Victor Texier, 19th Century](https://harvardartmuseums.org/collections/object/241043?position=37)
 
 ### Paper: [Friedrich Miescher and the discovery of DNA](https://www.sciencedirect.com/science/article/pii/S0012160604008231)
 
@@ -280,7 +280,7 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 
 ## 1943: Erwin Schroedinger discusses that genetic material most likely resembles an “aperiodic crystal” ([36](https://www.nature.com/articles/d41586-018-06166-x))
 
-### Art Piece: [Ice Crystals, Andreas Feininger, 1948](https://harvardartmuseums.org/collections/object/158688?position=0)
+### Art Piece: [Conical Shape. Crystal of Said Hippuric Acid Compound, Carl Struwe, 1927](https://harvardartmuseums.org/collections/object/355621?position=30)
 
 ### Paper: [What did Erwin mean? The physics of information from the materials genomics of aperiodic crystals and water to molecular information catalysts and life](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0067)
 
@@ -338,7 +338,7 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 
 ## 1962: Thomas Kuhn’s <em>The Structure of Scientific Revolutions</em> is published ([44](https://www.lri.fr/~mbl/Stanford/CS477/papers/Kuhn-SSR-2ndEd.pdf))
 
-### Art Piece: [Scientist, Ben Shahn, 1957](https://harvardartmuseums.org/collections/object/192505?position=23)
+### Art Piece: [Allegory in Honor of the Roman College, Claude Mellan, 17th Century](https://harvardartmuseums.org/collections/object/240723?position=159)
 
 ### Paper: [Socioeconomic gaps in science achievement](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-018-0132-5)
 
@@ -360,7 +360,7 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 
 ## 2020: Jennifer Doudna and Emmanuelle Charpentier win the Nobel Prize in Chemistry for CRISPR ([46](https://www.nature.com/articles/d41586-020-02765-9))
 
-### Art Piece: [Nobel Prize Ceremony, Stockholm, Alfred Eisenstaedt, 1929](https://harvardartmuseums.org/collections/object/221661?position=0)
+### Art Piece: [Chemistry Building, Brookhaven National Lab, Per Brandin, 1978](https://harvardartmuseums.org/collections/object/159318?position=0)
 
 ### Paper: [A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity](https://pubmed.ncbi.nlm.nih.gov/22745249/)
 
