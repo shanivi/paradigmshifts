@@ -34,7 +34,7 @@ placeholder. [Read more].
 
 ***
 
-## 1551-1558 and 1587: Conrad Gessner’s History of the Animals published ([6](https://www.loc.gov/item/06004347/))
+## 1551-1558 and 1587: Conrad Gessner’s <em>History of the Animals</em> published ([6](https://www.loc.gov/item/06004347/))
 
 ### Art Piece: [Mosaic Pavement with Birds, from Feleet Village Building, Roman, 4th-5th Century CE](https://hvrd.art/o/291656)
 
@@ -44,7 +44,7 @@ placeholder. [Read more].
 
 ***
 
-## 1620: Francis Bacon’s Novum Organum published ([8](https://oll.libertyfund.org/title/bacon-novum-organum))
+## 1620: Francis Bacon’s <em>Novum Organum</em> published ([8](https://oll.libertyfund.org/title/bacon-novum-organum))
 
 ### Art Piece: [Untitled (scientists projecting image on screen), Jack Gould, 1954](https://hvrd.art/o/142728)
 
@@ -52,7 +52,7 @@ placeholder. [Read more].
 
 ***
 
-## 1618-1621: Printing of Johannes Kepler’s Epitome Astronomiae Copernicanae ([9](https://books.google.com/books?id=KUE1AAAAcAAJ&printsec=frontcover#v=onepage&q&f=false))
+## 1618-1621: Printing of Johannes Kepler’s <em>Epitome Astronomiae Copernicanae</em> ([9](https://books.google.com/books?id=KUE1AAAAcAAJ&printsec=frontcover#v=onepage&q&f=false))
 
 ### Art Piece: [Celestial Sphere, Paul Manship, 1934](https://hvrd.art/o/299810)
 
@@ -68,7 +68,7 @@ placeholder. [Read more].
 
 ***
 
-## 1668-1704: John Ray’s Historia Plantarum published ([12](https://library.si.edu/digital-library/book/historia-plantarum-ray-john))
+## 1668-1704: John Ray’s <em>Historia Plantarum</em> published ([12](https://library.si.edu/digital-library/book/historia-plantarum-ray-john))
 
 ### Art Piece: [A Serpentine Plant (Ophioxylum Serpentinum), Aert Schouman, 18th Century](https://hvrd.art/o/360614)
 
@@ -80,7 +80,7 @@ placeholder. [Read more].
 
 # <em>1700s</em>
 
-## 1733-1734: Alexander Pope’s Essay on Man published ([13](https://www.gutenberg.org/files/2428/2428-h/2428-h.htm))
+## 1733-1734: Alexander Pope’s <em>Essay on Man</em> published ([13](https://www.gutenberg.org/files/2428/2428-h/2428-h.htm))
 
 ### Art Piece: [Nude Male, for "Sadak...", and Seated Figure; verso: Figure and Animal Sketches, William Rimmer, 1867-1868](https://hvrd.art/o/306610)
 
@@ -88,7 +88,7 @@ placeholder. [Read more].
 
 ***
 
-## 1735: First edition of Carl Linnaeus’ Systema Naturae printed in the Netherlands ([14](https://www.biodiversitylibrary.org/item/10277#page/3/mode/1up))
+## 1735: First edition of Carl Linnaeus’ <em>Systema Naturae</em> printed in the Netherlands ([14](https://www.biodiversitylibrary.org/item/10277#page/3/mode/1up))
 
 ### Art Piece: [Stamp Seal in the Shape of a Recumbent Bull: Two Dogs?, Mesopotamian, c. 3100-2900 BCE](https://hvrd.art/o/292376)
 
@@ -96,7 +96,7 @@ placeholder. [Read more].
 
 ***
 
-## 1776: The Wealth of Nations by Adam Smith is published ([16](https://www.biodiversitylibrary.org/bibliography/60802))
+## 1776: <em>The Wealth of Nations</em> by Adam Smith is published ([16](https://www.biodiversitylibrary.org/bibliography/60802))
 
 ### Art Piece: [Forty Litrae of Syracuse, Greek, 344 BCE-335 BCE](https://hvrd.art/o/188122)
 
@@ -104,7 +104,7 @@ placeholder. [Read more].
 
 ***
 
-## 1788: James Hutton’s paper Theory of the Earth printed, introduces uniformitarianism ([17](https://www.smithsonianmag.com/history/father-modern-geology-youve-never-heard-180960203/))
+## 1788: James Hutton’s paper <em>Theory of the Earth</em> printed, introduces uniformitarianism ([17](https://www.smithsonianmag.com/history/father-modern-geology-youve-never-heard-180960203/))
 
 ### Art Piece: the front cover
 
@@ -112,7 +112,7 @@ placeholder. [Read more].
 
 ***
 
-## 1794: Erasmus Darwin, Charles Darwin’s grandfather, publishes Zoonomia ([18](http://darwin-online.org.uk/converted/pdf/1794_Zoonomia_A967.1.pdf))
+## 1794: Erasmus Darwin, Charles Darwin’s grandfather, publishes <em>Zoonomia</em> ([18](http://darwin-online.org.uk/converted/pdf/1794_Zoonomia_A967.1.pdf))
 
 ### Art Piece: [Three Recumbent Animals on a Plaque, Near Eastern, 9th-7th century BCE](https://hvrd.art/o/343020)
 
@@ -120,7 +120,7 @@ placeholder. [Read more].
 
 ***
 
-## 1798: Thomas Malthus’ An Essay on the Principle of Population is published anonymously; Malthus is later revealed to be the author ([19](http://www.esp.org/books/malthus/population/malthus.pdf), [20](https://www.econlib.org/library/Malthus/malPlong.html))
+## 1798: Thomas Malthus’ <em>An Essay on the Principle of Population</em> is published anonymously; Malthus is later revealed to be the author ([19](http://www.esp.org/books/malthus/population/malthus.pdf), [20](https://www.econlib.org/library/Malthus/malPlong.html))
 
 ### Art Piece: [Government, City: United States: Social Conditions, United States: Census of 1900: Proportion of Urban to Total Population, by States and Territories, at each Census., Unidentified Artist, c. 1903](https://hvrd.art/o/18637)
 
@@ -132,7 +132,7 @@ placeholder. [Read more].
 
 # <em>1800s</em>
 
-## 1802: William Paley’s work, Natural Theology is published, giving the famous “Divine Watchmaker” analogy ([21](https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-009-0184-6), [22](https://books.google.com/books/about/Natural_Theology.html?id=fxLXAAAAMAAJ))
+## 1802: William Paley’s work, <em>Natural Theology</em> is published, giving the famous “Divine Watchmaker” analogy ([21](https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-009-0184-6), [22](https://books.google.com/books/about/Natural_Theology.html?id=fxLXAAAAMAAJ))
 
 ### Art Piece: [Carved Tall-Case Hall Clock with Pendulum, Dutch, 18th Century](https://hvrd.art/o/327015)
 
@@ -140,7 +140,7 @@ placeholder. [Read more].
 
 ***
 
-## 1809: Jean-Baptiste Lamarck’s Philosophie Zoologique is published ([23](https://www.ucl.ac.uk/taxome/jim/Mim/lamarck_contents.html))
+## 1809: Jean-Baptiste Lamarck’s <em>Philosophie Zoologique</em> is published ([23](https://www.ucl.ac.uk/taxome/jim/Mim/lamarck_contents.html))
 
 ### Art Piece: [Giraffes, John Bernard Flannagan, 20th Century](https://hvrd.art/o/256790)
 
@@ -148,7 +148,7 @@ placeholder. [Read more].
 
 ***
  
-## 1816-1817: Georges Cuvier’s The Animal Kingdom published ([24](https://www.cambridge.org/core/books/animal-kingdom/B467ED34A254AB891D0A4252B1BC7070))
+## 1816-1817: Georges Cuvier’s <em>The Animal Kingdom</em> published ([24](https://www.cambridge.org/core/books/animal-kingdom/B467ED34A254AB891D0A4252B1BC7070))
 
 ### Art Piece: [Sketches of Skeletons: An Animal and Hunchback, Ferdinand-Victor-Eugène Delacroix, c. 1829-1830](https://hvrd.art/o/295664)
 
@@ -156,7 +156,7 @@ placeholder. [Read more].
 
 ***
 
-## 1830: Charles Lyell’s Principles of Geology published ([25](http://darwin-online.org.uk/content/frameset?viewtype=text&itemID=A505.1&pageseq=1))
+## 1830: Charles Lyell’s <em>Principles of Geology</em> published ([25](http://darwin-online.org.uk/content/frameset?viewtype=text&itemID=A505.1&pageseq=1))
 
 ### Art Piece: [Untitled (rock formation), Brett Weston, 1960](https://hvrd.art/o/157964)
 
@@ -164,7 +164,7 @@ placeholder. [Read more].
 
 ***
 
-## 1844: Vestiges of the Natural History of Creation is published anonymously; the author is later revealed to be Robert Chambers ([26](https://www.gutenberg.org/files/7116/7116-h/7116-h.htm))
+## 1844: <em>Vestiges of the Natural History of Creation</em> is published anonymously; the author is later revealed to be Robert Chambers ([26](https://www.gutenberg.org/files/7116/7116-h/7116-h.htm))
 
 ### Art Piece: [Head of a Bearded Man, Michelangelo, 15th-16th century](https://harvardartmuseums.org/collections/object/298520?position=15)
 
@@ -172,7 +172,7 @@ placeholder. [Read more].
 
 ***
 
-## 1858: Charles Darwin and Alfred Russel Wallace jointly publish On the tendency of species to form varieties; and on the perpetuation of varieties and species by natural selection ([29](https://www.historyofinformation.com/detail.php?id=1655), [30](http://darwin-online.org.uk/content/frameset?itemID=F350&viewtype=text&pageseq=1))
+## 1858: Charles Darwin and Alfred Russel Wallace jointly publish <em>On the tendency of species to form varieties; and on the perpetuation of varieties and species by natural selection</em> ([29](https://www.historyofinformation.com/detail.php?id=1655), [30](http://darwin-online.org.uk/content/frameset?itemID=F350&viewtype=text&pageseq=1))
 
 ### Art Piece: [Wisdom Triumphing over Death, Evil, and Vice, Bernart Prooijs, 1594](https://hvrd.art/o/294667)
 
@@ -180,7 +180,7 @@ placeholder. [Read more].
 
 ***
 
-## 1859: Charles Darwin’s On the Origin of Species is published ([31](https://www.gutenberg.org/files/1228/1228-h/1228-h.htm))
+## 1859: Charles Darwin’s <em>On the Origin of Species</em> is published ([31](https://www.gutenberg.org/files/1228/1228-h/1228-h.htm))
 
 ### Art Piece: [Untitled (Tree of Enlightenment at Bodh Gaya), Nandalal Bose, 1960](https://harvardartmuseums.org/collections/object/8019?position=2)
 
@@ -232,7 +232,7 @@ placeholder. [Read more].
 
 ***
 
-## 1959: Karl Popper’s The Logic of Scientific Discovery published ([41](https://edisciplinas.usp.br/pluginfile.php/5536771/mod_resource/content/1/%5BKarl_Popper%5D_The_logic_of_scientific_discovery%28z-lib.org%29.pdf))
+## 1959: Karl Popper’s <em>The Logic of Scientific Discovery</em> published ([41](https://edisciplinas.usp.br/pluginfile.php/5536771/mod_resource/content/1/%5BKarl_Popper%5D_The_logic_of_scientific_discovery%28z-lib.org%29.pdf))
 
 ### Art Piece: [Discovery of the Remains of Raphael in the Pantheon in Rome, Stéphane Pannemaker, 19th Century](https://harvardartmuseums.org/collections/object/240631?position=26)
 
@@ -248,7 +248,7 @@ placeholder. [Read more].
 
 ***
 
-## 1962: Thomas Kuhn’s The Structure of Scientific Revolutions is published ([44](https://www.lri.fr/~mbl/Stanford/CS477/papers/Kuhn-SSR-2ndEd.pdf))
+## 1962: Thomas Kuhn’s <em>The Structure of Scientific Revolutions</em> is published ([44](https://www.lri.fr/~mbl/Stanford/CS477/papers/Kuhn-SSR-2ndEd.pdf))
 
 ### Art Piece: [Scientist, Ben Shahn, 1957](https://harvardartmuseums.org/collections/object/192505?position=23)
 
@@ -256,7 +256,7 @@ placeholder. [Read more].
 
 ***
 
-## 1973: Theodosius Dobzhansky’s essay Nothing in Biology Makes Sense except in the Light of Evolution is published ([45](https://online.ucpress.edu/abt/article/35/3/125/9833/Nothing-in-Biology-Makes-Sense-except-in-the-Light))
+## 1973: Theodosius Dobzhansky’s essay <em>Nothing in Biology Makes Sense except in the Light of Evolution</em> is published ([45](https://online.ucpress.edu/abt/article/35/3/125/9833/Nothing-in-Biology-Makes-Sense-except-in-the-Light))
 
 ### Art Piece: [View of the subterranean foundation of the mausoleum, Giovanni Battista Piranesi, 18th Century](https://harvardartmuseums.org/collections/object/59520?position=104)
 
