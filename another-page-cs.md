@@ -152,6 +152,9 @@ placeholder. [Read more].
  
 ## 1816-1817: Georges Cuvier’s <em>The Animal Kingdom</em> published ([24](https://www.cambridge.org/core/books/animal-kingdom/B467ED34A254AB891D0A4252B1BC7070))
 
+![pic](/images/1816-1817.jpeg)
+
+
 ### Art Piece: [Sketches of Skeletons: An Animal and Hunchback, Ferdinand-Victor-Eugène Delacroix, c. 1829-1830](https://hvrd.art/o/295664)
 
 ### Paper: [Evolution of the vertebrate skeleton: morphology, embryology, and development](https://zoologicalletters.biomedcentral.com/articles/10.1186/s40851-014-0007-7)
