@@ -64,6 +64,8 @@ placeholder. [Read more].
 
 ## 1667: Nicolas Steno dissects the head of a shark and publishes his findings ([11](https://www.e-education.psu.edu/earth520/node/1803))
 
+![pic](/images/1667.jpg)
+
 ### Art Piece: [Youth Saved from a Shark, Valentine Green after John Singleton Copley, 1779](https://hvrd.art/o/277538)
 
 ### Paper: [Tooth morphology elucidates shark evolution across the end-Cretaceous mass extinction](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001108)
@@ -71,6 +73,8 @@ placeholder. [Read more].
 ***
 
 ## 1668-1704: John Ray’s <em>Historia Plantarum</em> published ([12](https://library.si.edu/digital-library/book/historia-plantarum-ray-john))
+
+![pic](/images/1668-1704.jpg)
 
 ### Art Piece: [A Serpentine Plant (Ophioxylum Serpentinum), Aert Schouman, 18th Century](https://hvrd.art/o/360614)
 
@@ -84,6 +88,8 @@ placeholder. [Read more].
 
 ## 1733-1734: Alexander Pope’s <em>Essay on Man</em> published ([13](https://www.gutenberg.org/files/2428/2428-h/2428-h.htm))
 
+![pic](/images/1733-1734.jpg)
+
 ### Art Piece: [Nude Male, for "Sadak...", and Seated Figure; verso: Figure and Animal Sketches, William Rimmer, 1867-1868](https://hvrd.art/o/306610)
 
 ### Paper: [How scientists perceive the evolutionary origin of human traits: Results of a survey study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5869357/)
@@ -92,6 +98,8 @@ placeholder. [Read more].
 
 ## 1735: First edition of Carl Linnaeus’ <em>Systema Naturae</em> printed in the Netherlands ([14](https://www.biodiversitylibrary.org/item/10277#page/3/mode/1up))
 
+![pic](/images/1735.jpg)
+
 ### Art Piece: [Stamp Seal in the Shape of a Recumbent Bull: Two Dogs?, Mesopotamian, c. 3100-2900 BCE](https://hvrd.art/o/292376)
 
 ### Paper: [The integrative future of taxonomy](https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-7-16)
@@ -99,6 +107,8 @@ placeholder. [Read more].
 ***
 
 ## 1776: <em>The Wealth of Nations</em> by Adam Smith is published ([16](https://www.biodiversitylibrary.org/bibliography/60802))
+
+![pic](/images/1776.jpg)
 
 ### Art Piece: [Forty Litrae of Syracuse, Greek, 344 BCE-335 BCE](https://hvrd.art/o/188122)
 
@@ -116,6 +126,8 @@ placeholder. [Read more].
 
 ## 1794: Erasmus Darwin, Charles Darwin’s grandfather, publishes <em>Zoonomia</em> ([18](http://darwin-online.org.uk/converted/pdf/1794_Zoonomia_A967.1.pdf))
 
+![pic](/images/1794.jpg)
+
 ### Art Piece: [Three Recumbent Animals on a Plaque, Near Eastern, 9th-7th century BCE](https://hvrd.art/o/343020)
 
 ### Paper: [The Early “Evolution” of “Punctuated Equilibria”](https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-008-0032-0)
@@ -123,6 +135,8 @@ placeholder. [Read more].
 ***
 
 ## 1798: Thomas Malthus’ <em>An Essay on the Principle of Population</em> is published anonymously; Malthus is later revealed to be the author ([19](http://www.esp.org/books/malthus/population/malthus.pdf), [20](https://www.econlib.org/library/Malthus/malPlong.html))
+
+![pic](/images/1798.jpg)
 
 ### Art Piece: [Government, City: United States: Social Conditions, United States: Census of 1900: Proportion of Urban to Total Population, by States and Territories, at each Census., Unidentified Artist, c. 1903](https://hvrd.art/o/18637)
 
@@ -136,6 +150,8 @@ placeholder. [Read more].
 
 ## 1802: William Paley’s work, <em>Natural Theology</em> is published, giving the famous “Divine Watchmaker” analogy ([21](https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-009-0184-6), [22](https://books.google.com/books/about/Natural_Theology.html?id=fxLXAAAAMAAJ))
 
+![pic](/images/1802.jpg)
+
 ### Art Piece: [Carved Tall-Case Hall Clock with Pendulum, Dutch, 18th Century](https://hvrd.art/o/327015)
 
 ### Paper: [A fairytale creation or the beginning of everything: Students’ pre-instructional conceptions about the Big Bang theory](https://www.sciencedirect.com/science/article/pii/S2213020916302427)
@@ -143,6 +159,8 @@ placeholder. [Read more].
 ***
 
 ## 1809: Jean-Baptiste Lamarck’s <em>Philosophie Zoologique</em> is published ([23](https://www.ucl.ac.uk/taxome/jim/Mim/lamarck_contents.html))
+
+![pic](/images/1809.jpg)
 
 ### Art Piece: [Giraffes, John Bernard Flannagan, 20th Century](https://hvrd.art/o/256790)
 
@@ -154,7 +172,6 @@ placeholder. [Read more].
 
 ![pic](/images/1816-1817.jpeg)
 
-
 ### Art Piece: [Sketches of Skeletons: An Animal and Hunchback, Ferdinand-Victor-Eugène Delacroix, c. 1829-1830](https://hvrd.art/o/295664)
 
 ### Paper: [Evolution of the vertebrate skeleton: morphology, embryology, and development](https://zoologicalletters.biomedcentral.com/articles/10.1186/s40851-014-0007-7)
@@ -162,6 +179,8 @@ placeholder. [Read more].
 ***
 
 ## 1830: Charles Lyell’s <em>Principles of Geology</em> published ([25](http://darwin-online.org.uk/content/frameset?viewtype=text&itemID=A505.1&pageseq=1))
+
+![pic](/images/1830.jpg)
 
 ### Art Piece: [Untitled (rock formation), Brett Weston, 1960](https://hvrd.art/o/157964)
 
@@ -171,6 +190,8 @@ placeholder. [Read more].
 
 ## 1844: <em>Vestiges of the Natural History of Creation</em> is published anonymously; the author is later revealed to be Robert Chambers ([26](https://www.gutenberg.org/files/7116/7116-h/7116-h.htm))
 
+![pic](/images/1844.jpg)
+
 ### Art Piece: [Head of a Bearded Man, Michelangelo, 15th-16th century](https://harvardartmuseums.org/collections/object/298520?position=15)
 
 ### Paper: [Competition in Science: Links Between Publication Pressure, Grant Pressure and the Academic Job Market](https://link.springer.com/article/10.1057/s41307-017-0051-y)
@@ -179,6 +200,8 @@ placeholder. [Read more].
 
 ## 1858: Charles Darwin and Alfred Russel Wallace jointly publish <em>On the tendency of species to form varieties; and on the perpetuation of varieties and species by natural selection</em> ([29](https://www.historyofinformation.com/detail.php?id=1655), [30](http://darwin-online.org.uk/content/frameset?itemID=F350&viewtype=text&pageseq=1))
 
+![pic](/images/1858.jpg)
+
 ### Art Piece: [Wisdom Triumphing over Death, Evil, and Vice, Bernart Prooijs, 1594](https://hvrd.art/o/294667)
 
 ### Paper: [The origin and early evolution of mitochondria](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC138944/)
@@ -186,6 +209,8 @@ placeholder. [Read more].
 ***
 
 ## 1859: Charles Darwin’s <em>On the Origin of Species</em> is published ([31](https://www.gutenberg.org/files/1228/1228-h/1228-h.htm))
+
+![pic](/images/1859.jpg)
 
 ### Art Piece: [Untitled (Tree of Enlightenment at Bodh Gaya), Nandalal Bose, 1960](https://harvardartmuseums.org/collections/object/8019?position=2)
 
@@ -207,6 +232,8 @@ placeholder. [Read more].
 
 ## 1928: Frederick Griffith’s showed a “transforming principle,” setting the stage for more inquiry into the building blocks of life ([34](https://www.mun.ca/biology/scarr/Transformation_Experiment.html), [35](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/griffiths-experiment))
 
+![pic](/images/1928.jpg)
+
 ### Art Piece: [Two Women Transforming into Trees (Daphne and Myrna?), Stefano Della Bella, 1647](https://hvrd.art/o/72308)
 
 ### Paper: [A Transforming Principle](https://www.cell.com/fulltext/S0092-8674(05)00042-5)
@@ -223,6 +250,8 @@ placeholder. [Read more].
 
 ## 1944: The Avery–MacLeod–McCarty experiment shows that DNA is the “transforming principle” ([37](https://www.genome.gov/25520250/online-education-kit-1944-dna-is-transforming-principle#:~:text=Oswald%20Avery%2C%20Colin%20MacLeod%2C%20and,the%20chemical%20nature%20of%20genes.), [38](https://dnalc.cshl.edu/view/15674-Oswald-Avery-c-1930-.html))
 
+![pic](/images/1944.jpg)
+
 ### Art Piece: [Cybele Transforms the Ships of Aeneas into Sea Nymphs, Johann Wilhelm Baur, c. 1640](https://harvardartmuseums.org/collections/object/92828?position=108)
 
 ### Paper: [Studies on the Chemical Nature of the Substance Inducing Transformation of Pneumococcal Types](https://pubmed.ncbi.nlm.nih.gov/19871359/)
@@ -230,6 +259,8 @@ placeholder. [Read more].
 ***
 
 ## 1951-1953: Watson, Crick, Wilkins, and Franklin investigate the structure of DNA; the structure is eventually revealed to be an antiparallel double helix, with Watson and Crick publishing their notable paper in 1953 ([39](https://www.nature.com/articles/171737a0), [40](https://profiles.nlm.nih.gov/spotlight/sc/feature/doublehelix))
+
+![pic](/images/1951-1953.jpg)
 
 ### Art Piece: [Breakthrough, Denis-Auguste-Marie Raffet, 1835](https://hvrd.art/o/279752)
 
@@ -239,6 +270,8 @@ placeholder. [Read more].
 
 ## 1959: Karl Popper’s <em>The Logic of Scientific Discovery</em> published ([41](https://edisciplinas.usp.br/pluginfile.php/5536771/mod_resource/content/1/%5BKarl_Popper%5D_The_logic_of_scientific_discovery%28z-lib.org%29.pdf))
 
+![pic](/images/1959.jpg)
+
 ### Art Piece: [Discovery of the Remains of Raphael in the Pantheon in Rome, Stéphane Pannemaker, 19th Century](https://harvardartmuseums.org/collections/object/240631?position=26)
 
 ### Paper: [The most important application of science](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4198034/)
@@ -246,6 +279,8 @@ placeholder. [Read more].
 ***
 
 ## 1961: The Nirenberg and Matthaei experiment deciphers the first codon in genetic code ([42](https://profiles.nlm.nih.gov/spotlight/jj/feature/syntheticrna))
+
+![pic](/images/1961.jpg)
 
 ### Art Piece: [Discovery of the Golden Fleece, René Boyvin, 16th Century](https://harvardartmuseums.org/collections/object/275731?position=12)
 
@@ -262,6 +297,8 @@ placeholder. [Read more].
 ***
 
 ## 1973: Theodosius Dobzhansky’s essay <em>Nothing in Biology Makes Sense except in the Light of Evolution</em> is published ([45](https://online.ucpress.edu/abt/article/35/3/125/9833/Nothing-in-Biology-Makes-Sense-except-in-the-Light))
+
+![pic](/images/1973.jpg)
 
 ### Art Piece: [View of the subterranean foundation of the mausoleum, Giovanni Battista Piranesi, 18th Century](https://harvardartmuseums.org/collections/object/59520?position=104)
 
