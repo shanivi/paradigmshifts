@@ -20,7 +20,7 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 
 ### Scientific Paper: [A Production of Amino Acids under Possible Primitive Earth Conditions](https://www.jstor.org/stable/1680569?origin=JSTOR-pdf)
 
-placeholder. [Read more].
+[Read the full explanation here](
 
 ***
 
