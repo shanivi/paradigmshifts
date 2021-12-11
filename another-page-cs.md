@@ -20,7 +20,7 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 
 ### Scientific Paper: [A Production of Amino Acids under Possible Primitive Earth Conditions](https://www.jstor.org/stable/1680569?origin=JSTOR-pdf)
 
-[Read the full explanation here](
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/65)
 
 ***
 
@@ -30,7 +30,7 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 
 ### Paper: [Long-term integrations and stability of planetary orbits in our Solar system](https://academic.oup.com/mnras/article/336/2/483/1158666)
 
-placeholder. [Read more].
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1543)
 
 ***
 
@@ -42,7 +42,7 @@ placeholder. [Read more].
 
 ### Paper: [Review: Animal Taxonomy: Theory and Practice](https://www.jstor.org/stable/2819440)
 
-placeholder. [Read more].
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1551)
 
 ***
 
@@ -52,6 +52,8 @@ placeholder. [Read more].
 
 ### Paper: [Meta-research: Evaluation and Improvement of Research Methods and Practices](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592065/)
 
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1620)
+
 ***
 
 ## 1618-1621: Printing of Johannes Kepler’s <em>Epitome Astronomiae Copernicanae</em> ([9](https://books.google.com/books?id=KUE1AAAAcAAJ&printsec=frontcover#v=onepage&q&f=false))
@@ -59,6 +61,8 @@ placeholder. [Read more].
 ### Art Piece: [Celestial Sphere, Paul Manship, 1934](https://hvrd.art/o/299810)
 
 ### Paper: [GW Ori: circumtriple rings and planets](https://academic.oup.com/mnras/article-abstract/508/1/392/6371904?redirectedFrom=fulltext)
+
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1618)
 
 ***
 
@@ -70,6 +74,8 @@ placeholder. [Read more].
 
 ### Paper: [Tooth morphology elucidates shark evolution across the end-Cretaceous mass extinction](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001108)
 
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1667)
+
 ***
 
 ## 1668-1704: John Ray’s <em>Historia Plantarum</em> published ([12](https://library.si.edu/digital-library/book/historia-plantarum-ray-john))
@@ -79,6 +85,8 @@ placeholder. [Read more].
 ### Art Piece: [A Serpentine Plant (Ophioxylum Serpentinum), Aert Schouman, 18th Century](https://hvrd.art/o/360614)
 
 ### Paper: [Plant diversity in a changing world: Status, trends, and conservation needs](https://www.sciencedirect.com/science/article/pii/S2468265916300300)
+
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1668)
 
 ***
 ***
@@ -94,6 +102,8 @@ placeholder. [Read more].
 
 ### Paper: [How scientists perceive the evolutionary origin of human traits: Results of a survey study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5869357/)
 
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1733)
+
 ***
 
 ## 1735: First edition of Carl Linnaeus’ <em>Systema Naturae</em> printed in the Netherlands ([14](https://www.biodiversitylibrary.org/item/10277#page/3/mode/1up))
@@ -103,6 +113,8 @@ placeholder. [Read more].
 ### Art Piece: [Stamp Seal in the Shape of a Recumbent Bull: Two Dogs?, Mesopotamian, c. 3100-2900 BCE](https://hvrd.art/o/292376)
 
 ### Paper: [The integrative future of taxonomy](https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-7-16)
+
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1735)
 
 ***
 
@@ -114,6 +126,8 @@ placeholder. [Read more].
 
 ### Paper: [Increasing returns, monopolistic competition, and international trade](https://www.sciencedirect.com/science/article/abs/pii/0022199679900175)
 
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1776)
+
 ***
 
 ## 1788: James Hutton’s paper <em>Theory of the Earth</em> printed, introduces uniformitarianism ([17](https://www.smithsonianmag.com/history/father-modern-geology-youve-never-heard-180960203/))
@@ -121,6 +135,8 @@ placeholder. [Read more].
 ### Art Piece: the front cover
 
 ### Paper: [Uniformitarianism. An Inquiry into Principle, Theory, and Method in Geohistory and Biohistory](https://link.springer.com/chapter/10.1007/978-1-4615-9585-4_2)
+
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1788)
 
 ***
 
@@ -132,6 +148,8 @@ placeholder. [Read more].
 
 ### Paper: [The Early “Evolution” of “Punctuated Equilibria”](https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-008-0032-0)
 
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1794)
+
 ***
 
 ## 1798: Thomas Malthus’ <em>An Essay on the Principle of Population</em> is published anonymously; Malthus is later revealed to be the author ([19](http://www.esp.org/books/malthus/population/malthus.pdf), [20](https://www.econlib.org/library/Malthus/malPlong.html))
@@ -141,6 +159,8 @@ placeholder. [Read more].
 ### Art Piece: [Government, City: United States: Social Conditions, United States: Census of 1900: Proportion of Urban to Total Population, by States and Territories, at each Census., Unidentified Artist, c. 1903](https://hvrd.art/o/18637)
 
 ### Paper: [Population, poverty and economic development](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2781831/)
+
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1798)
 
 ***
 ***
@@ -156,6 +176,8 @@ placeholder. [Read more].
 
 ### Paper: [A fairytale creation or the beginning of everything: Students’ pre-instructional conceptions about the Big Bang theory](https://www.sciencedirect.com/science/article/pii/S2213020916302427)
 
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1802)
+
 ***
 
 ## 1809: Jean-Baptiste Lamarck’s <em>Philosophie Zoologique</em> is published ([23](https://www.ucl.ac.uk/taxome/jim/Mim/lamarck_contents.html))
@@ -165,6 +187,8 @@ placeholder. [Read more].
 ### Art Piece: [Giraffes, John Bernard Flannagan, 20th Century](https://hvrd.art/o/256790)
 
 ### Paper: [Lamarckism and epigenetic inheritance: a clarification](https://link.springer.com/article/10.1007/s10539-018-9642-2)
+
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1809)
 
 ***
  
@@ -176,6 +200,8 @@ placeholder. [Read more].
 
 ### Paper: [Evolution of the vertebrate skeleton: morphology, embryology, and development](https://zoologicalletters.biomedcentral.com/articles/10.1186/s40851-014-0007-7)
 
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1816)
+
 ***
 
 ## 1830: Charles Lyell’s <em>Principles of Geology</em> published ([25](http://darwin-online.org.uk/content/frameset?viewtype=text&itemID=A505.1&pageseq=1))
@@ -185,6 +211,8 @@ placeholder. [Read more].
 ### Art Piece: [Untitled (rock formation), Brett Weston, 1960](https://hvrd.art/o/157964)
 
 ### Paper: [Building mountain biodiversity: Geological and evolutionary processes](https://www.science.org/doi/10.1126/science.aax0151)
+
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1830)
 
 ***
 
@@ -196,6 +224,8 @@ placeholder. [Read more].
 
 ### Paper: [Competition in Science: Links Between Publication Pressure, Grant Pressure and the Academic Job Market](https://link.springer.com/article/10.1057/s41307-017-0051-y)
 
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1844)
+
 ***
 
 ## 1858: Charles Darwin and Alfred Russel Wallace jointly publish <em>On the tendency of species to form varieties; and on the perpetuation of varieties and species by natural selection</em> ([29](https://www.historyofinformation.com/detail.php?id=1655), [30](http://darwin-online.org.uk/content/frameset?itemID=F350&viewtype=text&pageseq=1))
@@ -205,6 +235,8 @@ placeholder. [Read more].
 ### Art Piece: [Wisdom Triumphing over Death, Evil, and Vice, Bernart Prooijs, 1594](https://hvrd.art/o/294667)
 
 ### Paper: [The origin and early evolution of mitochondria](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC138944/)
+
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1858)
 
 ***
 
@@ -216,6 +248,8 @@ placeholder. [Read more].
 
 ### Paper: [Origin and evolution of the adaptive immune system: genetic events and selective pressures](https://www.nature.com/articles/nrg2703)
 
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1859)
+
 ***
 
 ## 1869: Friedrich Miescher isolates “nuclein” from cell nuclei ([32](https://www.genome.gov/25520232/online-education-kit-1869-dna-first-isolated), [33](https://dnalc.cshl.edu/view/16003-Miescher-and-the-isolation-of-DNA.html))
@@ -223,6 +257,8 @@ placeholder. [Read more].
 ### Art Piece: [Laboratory Still Life No. 4, Tony Cragg, 1988](https://harvardartmuseums.org/collections/object/99364?position=35)
 
 ### Paper: [Friedrich Miescher and the discovery of DNA](https://www.sciencedirect.com/science/article/pii/S0012160604008231)
+
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1869)
 
 ***
 ***
@@ -238,6 +274,8 @@ placeholder. [Read more].
 
 ### Paper: [A Transforming Principle](https://www.cell.com/fulltext/S0092-8674(05)00042-5)
 
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1928)
+
 ***
 
 ## 1943: Erwin Schroedinger discusses that genetic material most likely resembles an “aperiodic crystal” ([36](https://www.nature.com/articles/d41586-018-06166-x))
@@ -245,6 +283,8 @@ placeholder. [Read more].
 ### Art Piece: [Ice Crystals, Andreas Feininger, 1948](https://harvardartmuseums.org/collections/object/158688?position=0)
 
 ### Paper: [What did Erwin mean? The physics of information from the materials genomics of aperiodic crystals and water to molecular information catalysts and life](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0067)
+
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1943)
 
 ***
 
@@ -256,6 +296,8 @@ placeholder. [Read more].
 
 ### Paper: [Studies on the Chemical Nature of the Substance Inducing Transformation of Pneumococcal Types](https://pubmed.ncbi.nlm.nih.gov/19871359/)
 
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1944)
+
 ***
 
 ## 1951-1953: Watson, Crick, Wilkins, and Franklin investigate the structure of DNA; the structure is eventually revealed to be an antiparallel double helix, with Watson and Crick publishing their notable paper in 1953 ([39](https://www.nature.com/articles/171737a0), [40](https://profiles.nlm.nih.gov/spotlight/sc/feature/doublehelix))
@@ -265,6 +307,8 @@ placeholder. [Read more].
 ### Art Piece: [Breakthrough, Denis-Auguste-Marie Raffet, 1835](https://hvrd.art/o/279752)
 
 ### Paper: [Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid](https://www.nature.com/articles/171737a0)
+
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1951)
 
 ***
 
@@ -276,6 +320,8 @@ placeholder. [Read more].
 
 ### Paper: [The most important application of science](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4198034/)
 
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1959)
+
 ***
 
 ## 1961: The Nirenberg and Matthaei experiment deciphers the first codon in genetic code ([42](https://profiles.nlm.nih.gov/spotlight/jj/feature/syntheticrna))
@@ -286,6 +332,8 @@ placeholder. [Read more].
 
 ### Paper: [The dependence of cell-free protein synthesis in E. coli upon naturally occurring or synthetic polyribonucleotides](https://www.pnas.org/content/47/10/1588)
 
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1961)
+
 ***
 
 ## 1962: Thomas Kuhn’s <em>The Structure of Scientific Revolutions</em> is published ([44](https://www.lri.fr/~mbl/Stanford/CS477/papers/Kuhn-SSR-2ndEd.pdf))
@@ -293,6 +341,8 @@ placeholder. [Read more].
 ### Art Piece: [Scientist, Ben Shahn, 1957](https://harvardartmuseums.org/collections/object/192505?position=23)
 
 ### Paper: [Socioeconomic gaps in science achievement](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-018-0132-5)
+
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1962)
 
 ***
 
@@ -304,6 +354,8 @@ placeholder. [Read more].
 
 ### Paper: [Nothing in Biology Makes Sense except in the Light of Evolution](https://online.ucpress.edu/abt/article/35/3/125/9833/Nothing-in-Biology-Makes-Sense-except-in-the-Light)
 
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1973)
+
 ***
 
 ## 2020: Jennifer Doudna and Emmanuelle Charpentier win the Nobel Prize in Chemistry for CRISPR ([46](https://www.nature.com/articles/d41586-020-02765-9))
@@ -311,6 +363,9 @@ placeholder. [Read more].
 ### Art Piece: [Nobel Prize Ceremony, Stockholm, Alfred Eisenstaedt, 1929](https://harvardartmuseums.org/collections/object/221661?position=0)
 
 ### Paper: [A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity](https://pubmed.ncbi.nlm.nih.gov/22745249/)
+
+[Read the full explanation here](https://shanivi.github.io/paradigmshifts/2020)
+
 
 
 
