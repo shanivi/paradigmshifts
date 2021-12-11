@@ -84,8 +84,7 @@ placeholder. [Read more].
 
 ### Art Piece: [Nude Male, for "Sadak...", and Seated Figure; verso: Figure and Animal Sketches, William Rimmer, 1867-1868](https://hvrd.art/o/306610)
 
-### Paper: [How scientists perceive the evolutionary origin of human traits: Results of a survey study
-](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5869357/)
+### Paper: [How scientists perceive the evolutionary origin of human traits: Results of a survey study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5869357/)
 
 ***
 
@@ -109,8 +108,7 @@ placeholder. [Read more].
 
 ### Art Piece: the front cover
 
-### Paper: [Uniformitarianism. An Inquiry into Principle, Theory, and Method in Geohistory and Biohistory
-](https://link.springer.com/chapter/10.1007/978-1-4615-9585-4_2)
+### Paper: [Uniformitarianism. An Inquiry into Principle, Theory, and Method in Geohistory and Biohistory](https://link.springer.com/chapter/10.1007/978-1-4615-9585-4_2)
 
 ***
 
@@ -118,8 +116,7 @@ placeholder. [Read more].
 
 ### Art Piece: [Three Recumbent Animals on a Plaque, Near Eastern, 9th-7th century BCE](https://hvrd.art/o/343020)
 
-### Paper: [The Early “Evolution” of “Punctuated Equilibria”
-](https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-008-0032-0)
+### Paper: [The Early “Evolution” of “Punctuated Equilibria”](https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-008-0032-0)
 
 ***
 
@@ -140,8 +137,7 @@ placeholder. [Read more].
 
 ### Art Piece: [Carved Tall-Case Hall Clock with Pendulum, Dutch, 18th Century](https://hvrd.art/o/327015)
 
-### Paper: [A fairytale creation or the beginning of everything: Students’ pre-instructional conceptions about the Big Bang theory
-](https://www.sciencedirect.com/science/article/pii/S2213020916302427)
+### Paper: [A fairytale creation or the beginning of everything: Students’ pre-instructional conceptions about the Big Bang theory](https://www.sciencedirect.com/science/article/pii/S2213020916302427)
 
 ***
 
@@ -189,8 +185,7 @@ placeholder. [Read more].
 
 ### Art Piece: [Untitled (Tree of Enlightenment at Bodh Gaya), Nandalal Bose, 1960](https://harvardartmuseums.org/collections/object/8019?position=2)
 
-### Paper: [Origin and evolution of the adaptive immune system: genetic events and selective pressures
-](https://www.nature.com/articles/nrg2703)
+### Paper: [Origin and evolution of the adaptive immune system: genetic events and selective pressures](https://www.nature.com/articles/nrg2703)
 
 ***
 
@@ -218,8 +213,7 @@ placeholder. [Read more].
 
 ### Art Piece: [Ice Crystals, Andreas Feininger, 1948](https://harvardartmuseums.org/collections/object/158688?position=0)
 
-### Paper: [What did Erwin mean? The physics of information from the materials genomics of aperiodic crystals and water to molecular information catalysts and life
-](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0067)
+### Paper: [What did Erwin mean? The physics of information from the materials genomics of aperiodic crystals and water to molecular information catalysts and life](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0067)
 
 ***
 
@@ -227,8 +221,7 @@ placeholder. [Read more].
 
 ### Art Piece: [Cybele Transforms the Ships of Aeneas into Sea Nymphs, Johann Wilhelm Baur, c. 1640](https://harvardartmuseums.org/collections/object/92828?position=108)
 
-### Paper: [Studies on the Chemical Nature of the Substance Inducing Transformation of Pneumococcal Types
-](https://pubmed.ncbi.nlm.nih.gov/19871359/)
+### Paper: [Studies on the Chemical Nature of the Substance Inducing Transformation of Pneumococcal Types](https://pubmed.ncbi.nlm.nih.gov/19871359/)
 
 ***
 
@@ -236,8 +229,7 @@ placeholder. [Read more].
 
 ### Art Piece: [Breakthrough, Denis-Auguste-Marie Raffet, 1835](https://hvrd.art/o/279752)
 
-### Paper: [Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid
-](https://www.nature.com/articles/171737a0)
+### Paper: [Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid](https://www.nature.com/articles/171737a0)
 
 ***
 
@@ -245,8 +237,7 @@ placeholder. [Read more].
 
 ### Art Piece: [Discovery of the Remains of Raphael in the Pantheon in Rome, Stéphane Pannemaker, 19th Century](https://harvardartmuseums.org/collections/object/240631?position=26)
 
-### Paper: [The most important application of science
-](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4198034/)
+### Paper: [The most important application of science](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4198034/)
 
 ***
 
@@ -254,8 +245,7 @@ placeholder. [Read more].
 
 ### Art Piece: [Discovery of the Golden Fleece, René Boyvin, 16th Century](https://harvardartmuseums.org/collections/object/275731?position=12)
 
-### Paper: [The dependence of cell-free protein synthesis in E. coli upon naturally occurring or synthetic polyribonucleotides
-](https://www.pnas.org/content/47/10/1588)
+### Paper: [The dependence of cell-free protein synthesis in E. coli upon naturally occurring or synthetic polyribonucleotides](https://www.pnas.org/content/47/10/1588)
 
 ***
 
@@ -279,8 +269,7 @@ placeholder. [Read more].
 
 ### Art Piece: [Nobel Prize Ceremony, Stockholm, Alfred Eisenstaedt, 1929](https://harvardartmuseums.org/collections/object/221661?position=0)
 
-### Paper: [A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity
-](https://pubmed.ncbi.nlm.nih.gov/22745249/)
+### Paper: [A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity](https://pubmed.ncbi.nlm.nih.gov/22745249/)
 
 
 
