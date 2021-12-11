@@ -153,8 +153,134 @@ placeholder. [Read more].
 
 ***
  
+## 1816-1817: Georges Cuvier’s The Animal Kingdom published ([24](https://www.cambridge.org/core/books/animal-kingdom/B467ED34A254AB891D0A4252B1BC7070))
 
+### Art Piece: [Sketches of Skeletons: An Animal and Hunchback, Ferdinand-Victor-Eugène Delacroix, c. 1829-1830](https://hvrd.art/o/295664)
 
+### Paper: [Evolution of the vertebrate skeleton: morphology, embryology, and development](https://zoologicalletters.biomedcentral.com/articles/10.1186/s40851-014-0007-7)
+
+***
+
+## 1830: Charles Lyell’s Principles of Geology published ([25](http://darwin-online.org.uk/content/frameset?viewtype=text&itemID=A505.1&pageseq=1))
+
+### Art Piece: [Untitled (rock formation), Brett Weston, 1960](https://hvrd.art/o/157964)
+
+### Paper: [Building mountain biodiversity: Geological and evolutionary processes](https://www.science.org/doi/10.1126/science.aax0151)
+
+***
+
+## 1844: Vestiges of the Natural History of Creation is published anonymously; the author is later revealed to be Robert Chambers ([26](https://www.gutenberg.org/files/7116/7116-h/7116-h.htm))
+
+### Art Piece: [Head of a Bearded Man, Michelangelo, 15th-16th century](https://harvardartmuseums.org/collections/object/298520?position=15)
+
+### Paper: [Competition in Science: Links Between Publication Pressure, Grant Pressure and the Academic Job Market](https://link.springer.com/article/10.1057/s41307-017-0051-y)
+
+***
+
+## 1858: Charles Darwin and Alfred Russel Wallace jointly publish On the tendency of species to form varieties; and on the perpetuation of varieties and species by natural selection ([29](https://www.historyofinformation.com/detail.php?id=1655), [30](http://darwin-online.org.uk/content/frameset?itemID=F350&viewtype=text&pageseq=1))
+
+### Art Piece: [Wisdom Triumphing over Death, Evil, and Vice, Bernart Prooijs, 1594](https://hvrd.art/o/294667)
+
+### Paper: [The origin and early evolution of mitochondria](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC138944/)
+
+***
+
+## 1859: Charles Darwin’s On the Origin of Species is published ([31](https://www.gutenberg.org/files/1228/1228-h/1228-h.htm))
+
+### Art Piece: [Untitled (Tree of Enlightenment at Bodh Gaya), Nandalal Bose, 1960](https://harvardartmuseums.org/collections/object/8019?position=2)
+
+### Paper: [Origin and evolution of the adaptive immune system: genetic events and selective pressures
+](https://www.nature.com/articles/nrg2703)
+
+***
+
+## 1869: Friedrich Miescher isolates “nuclein” from cell nuclei ([32](https://www.genome.gov/25520232/online-education-kit-1869-dna-first-isolated), [33](https://dnalc.cshl.edu/view/16003-Miescher-and-the-isolation-of-DNA.html))
+
+### Art Piece: [Laboratory Still Life No. 4, Tony Cragg, 1988](https://harvardartmuseums.org/collections/object/99364?position=35)
+
+### Paper: [Friedrich Miescher and the discovery of DNA](https://www.sciencedirect.com/science/article/pii/S0012160604008231)
+
+***
+***
+***
+
+# <em>1900s to now</em>
+
+## 1928: Frederick Griffith’s showed a “transforming principle,” setting the stage for more inquiry into the building blocks of life ([34](https://www.mun.ca/biology/scarr/Transformation_Experiment.html), [35](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/griffiths-experiment))
+
+### Art Piece: [Two Women Transforming into Trees (Daphne and Myrna?), Stefano Della Bella, 1647](https://hvrd.art/o/72308)
+
+### Paper: [A Transforming Principle](https://www.cell.com/fulltext/S0092-8674(05)00042-5)
+
+***
+
+## 1943: Erwin Schroedinger discusses that genetic material most likely resembles an “aperiodic crystal” ([36](https://www.nature.com/articles/d41586-018-06166-x))
+
+### Art Piece: [Ice Crystals, Andreas Feininger, 1948](https://harvardartmuseums.org/collections/object/158688?position=0)
+
+### Paper: [What did Erwin mean? The physics of information from the materials genomics of aperiodic crystals and water to molecular information catalysts and life
+](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0067)
+
+***
+
+## 1944: The Avery–MacLeod–McCarty experiment shows that DNA is the “transforming principle” ([37](https://www.genome.gov/25520250/online-education-kit-1944-dna-is-transforming-principle#:~:text=Oswald%20Avery%2C%20Colin%20MacLeod%2C%20and,the%20chemical%20nature%20of%20genes.), [38](https://dnalc.cshl.edu/view/15674-Oswald-Avery-c-1930-.html))
+
+### Art Piece: [Cybele Transforms the Ships of Aeneas into Sea Nymphs, Johann Wilhelm Baur, c. 1640](https://harvardartmuseums.org/collections/object/92828?position=108)
+
+### Paper: [Studies on the Chemical Nature of the Substance Inducing Transformation of Pneumococcal Types
+](https://pubmed.ncbi.nlm.nih.gov/19871359/)
+
+***
+
+## 1951-1953: Watson, Crick, Wilkins, and Franklin investigate the structure of DNA; the structure is eventually revealed to be an antiparallel double helix, with Watson and Crick publishing their notable paper in 1953 ([39](https://www.nature.com/articles/171737a0), [40](https://profiles.nlm.nih.gov/spotlight/sc/feature/doublehelix))
+
+### Art Piece: [Breakthrough, Denis-Auguste-Marie Raffet, 1835](https://hvrd.art/o/279752)
+
+### Paper: [Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid
+](https://www.nature.com/articles/171737a0)
+
+***
+
+## 1959: Karl Popper’s The Logic of Scientific Discovery published ([41](https://edisciplinas.usp.br/pluginfile.php/5536771/mod_resource/content/1/%5BKarl_Popper%5D_The_logic_of_scientific_discovery%28z-lib.org%29.pdf))
+
+### Art Piece: [Discovery of the Remains of Raphael in the Pantheon in Rome, Stéphane Pannemaker, 19th Century](https://harvardartmuseums.org/collections/object/240631?position=26)
+
+### Paper: [The most important application of science
+](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4198034/)
+
+***
+
+## 1961: The Nirenberg and Matthaei experiment deciphers the first codon in genetic code ([42](https://profiles.nlm.nih.gov/spotlight/jj/feature/syntheticrna))
+
+### Art Piece: [Discovery of the Golden Fleece, René Boyvin, 16th Century](https://harvardartmuseums.org/collections/object/275731?position=12)
+
+### Paper: [The dependence of cell-free protein synthesis in E. coli upon naturally occurring or synthetic polyribonucleotides
+](https://www.pnas.org/content/47/10/1588)
+
+***
+
+## 1962: Thomas Kuhn’s The Structure of Scientific Revolutions is published ([44](https://www.lri.fr/~mbl/Stanford/CS477/papers/Kuhn-SSR-2ndEd.pdf))
+
+### Art Piece: [Scientist, Ben Shahn, 1957](https://harvardartmuseums.org/collections/object/192505?position=23)
+
+### Paper: [Socioeconomic gaps in science achievement](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-018-0132-5)
+
+***
+
+## 1973: Theodosius Dobzhansky’s essay Nothing in Biology Makes Sense except in the Light of Evolution is published ([45](https://online.ucpress.edu/abt/article/35/3/125/9833/Nothing-in-Biology-Makes-Sense-except-in-the-Light))
+
+### Art Piece: [View of the subterranean foundation of the mausoleum, Giovanni Battista Piranesi, 18th Century](https://harvardartmuseums.org/collections/object/59520?position=104)
+
+### Paper: [Nothing in Biology Makes Sense except in the Light of Evolution](https://online.ucpress.edu/abt/article/35/3/125/9833/Nothing-in-Biology-Makes-Sense-except-in-the-Light)
+
+***
+
+## 2020: Jennifer Doudna and Emmanuelle Charpentier win the Nobel Prize in Chemistry for CRISPR ([46](https://www.nature.com/articles/d41586-020-02765-9))
+
+### Art Piece: [Nobel Prize Ceremony, Stockholm, Alfred Eisenstaedt, 1929](https://harvardartmuseums.org/collections/object/221661?position=0)
+
+### Paper: [A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity
+](https://pubmed.ncbi.nlm.nih.gov/22745249/)
 
 
 
