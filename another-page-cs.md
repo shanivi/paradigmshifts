@@ -36,6 +36,8 @@ placeholder. [Read more].
 
 ## 1551-1558 and 1587: Conrad Gessner’s <em>History of the Animals</em> published ([6](https://www.loc.gov/item/06004347/))
 
+![gessner](/images/gessner.jpg)
+
 ### Art Piece: [Mosaic Pavement with Birds, from Feleet Village Building, Roman, 4th-5th Century CE](https://hvrd.art/o/291656)
 
 ### Paper: [Review: Animal Taxonomy: Theory and Practice](https://www.jstor.org/stable/2819440)
