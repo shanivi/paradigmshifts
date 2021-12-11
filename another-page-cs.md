@@ -14,7 +14,7 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 
 # <em>1500s and 1600s</em>
 
-## Between 6th and 5th centuries BC: Approximate writing of the Book of Genesis ([1](https://books.google.com/books?id=3surkLVdw3UC&pg=PA12), [2](https://books.google.com/books?id=owwhpmIVgSAC), [3](https://web.mit.edu/jywang/www/cef/Bible/NIV/NIV_Bible/GEN+1.html#:~:text=Bible%20Gateway%20Genesis%201%20%3A%3A%20NIV&text=In%20the%20beginning%20God%20created%20the%20heavens%20and%20the%20earth.&text=Now%20the%20earth%20was%20formless,was%20hovering%20over%20the%20waters.)); Approximately 8 CE: The Metamorphoses, Ovid ([4](https://www.britannica.com/topic/Metamorphoses-poem-by-Ovid))
+## Between 6th and 5th centuries BC: Approximate writing of <em>the Book of Genesis</em> ([1](https://books.google.com/books?id=3surkLVdw3UC&pg=PA12), [2](https://books.google.com/books?id=owwhpmIVgSAC), [3](https://web.mit.edu/jywang/www/cef/Bible/NIV/NIV_Bible/GEN+1.html#:~:text=Bible%20Gateway%20Genesis%201%20%3A%3A%20NIV&text=In%20the%20beginning%20God%20created%20the%20heavens%20and%20the%20earth.&text=Now%20the%20earth%20was%20formless,was%20hovering%20over%20the%20waters.)); Approximately 8 CE: The Metamorphoses, Ovid ([4](https://www.britannica.com/topic/Metamorphoses-poem-by-Ovid))
 
 ### Art Piece: [Void, Paul Nash, 1924](https://harvardartmuseums.org/collections/object/261104)
 
@@ -24,7 +24,7 @@ placeholder. [Read more].
 
 ***
 
-## 1543: First printing of Copernicus’ On the Revolutions of the Heavenly Spheres ([5](https://ads.harvard.edu/books/1543droc.book/))
+## 1543: First printing of Copernicus’ <em>On the Revolutions of the Heavenly Spheres</em> ([5](https://ads.harvard.edu/books/1543droc.book/))
 
 ### Art Piece: [Nicolaus Copernicus, Maxim Kopf, 20th Century](https://hvrd.art/o/305233)
 
