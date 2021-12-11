@@ -122,8 +122,7 @@ placeholder. [Read more].
 
 ## 1798: Thomas Malthus’ An Essay on the Principle of Population is published anonymously; Malthus is later revealed to be the author ([19](http://www.esp.org/books/malthus/population/malthus.pdf), [20](https://www.econlib.org/library/Malthus/malPlong.html))
 
-### Art Piece: [Government, City: United States: Social Conditions, United States: Census of 1900: Proportion of Urban to Total Population, by States and Territories, at each Census.
-, Unidentified Artist, c. 1903](https://hvrd.art/o/18637)
+### Art Piece: [Government, City: United States: Social Conditions, United States: Census of 1900: Proportion of Urban to Total Population, by States and Territories, at each Census., Unidentified Artist, c. 1903](https://hvrd.art/o/18637)
 
 ### Paper: [Population, poverty and economic development](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2781831/)
 
