@@ -16,6 +16,8 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 
 ## Between 6th and 5th centuries BC: Approximate writing of <em>the Book of Genesis</em> ([1](https://books.google.com/books?id=3surkLVdw3UC&pg=PA12), [2](https://books.google.com/books?id=owwhpmIVgSAC), [3](https://web.mit.edu/jywang/www/cef/Bible/NIV/NIV_Bible/GEN+1.html#:~:text=Bible%20Gateway%20Genesis%201%20%3A%3A%20NIV&text=In%20the%20beginning%20God%20created%20the%20heavens%20and%20the%20earth.&text=Now%20the%20earth%20was%20formless,was%20hovering%20over%20the%20waters.)); Approximately 8 CE: The Metamorphoses, Ovid ([4](https://www.britannica.com/topic/Metamorphoses-poem-by-Ovid))
 
+![pic](/images/5.jpg)
+
 ### Art Piece: [Circular Dish with Phoenix-and-Cloud Decor, Chinese, Jiajing period, 1522-1566](https://harvardartmuseums.org/collections/object/205500?position=31)
 
 ### Scientific Paper: [A Production of Amino Acids under Possible Primitive Earth Conditions](https://www.jstor.org/stable/1680569?origin=JSTOR-pdf)
@@ -25,6 +27,8 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 ***
 
 ## 1543: First printing of Copernicus’ <em>On the Revolutions of the Heavenly Spheres</em> ([5](https://ads.harvard.edu/books/1543droc.book/))
+
+![pic](/images/1543.jpg)
 
 ### Art Piece: [The Planets: Saturn, Petrus Firens, 17th Century](https://harvardartmuseums.org/collections/object/244720?position=34)
 
@@ -48,6 +52,8 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 
 ## 1620: Francis Bacon’s <em>Novum Organum</em> published ([8](https://oll.libertyfund.org/title/bacon-novum-organum))
 
+![pic](/images/1620.jpg)
+
 ### Art Piece: [Sketch for "The Discoverer" Fresco, Assembly Chamber, State Capitol, Albany, New York, William Morris Hunt, 1878](https://harvardartmuseums.org/collections/object/308485?position=48)
 
 ### Paper: [Meta-research: Evaluation and Improvement of Research Methods and Practices](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592065/)
@@ -57,6 +63,8 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 ***
 
 ## 1618-1621: Printing of Johannes Kepler’s <em>Epitome Astronomiae Copernicanae</em> ([9](https://books.google.com/books?id=KUE1AAAAcAAJ&printsec=frontcover#v=onepage&q&f=false))
+
+![pic](/images/1618.jpg)
 
 ### Art Piece: [The Seven Planets, Johann Sadeler I, Netherlandish, c. 1585](https://harvardartmuseums.org/collections/object/370327?position=13)
 
@@ -131,6 +139,8 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 ***
 
 ## 1788: James Hutton’s paper <em>Theory of the Earth</em> printed, introduces uniformitarianism ([17](https://www.smithsonianmag.com/history/father-modern-geology-youve-never-heard-180960203/))
+
+![pic](/images/1788.jpg)
 
 ### Art Piece: [Rocky Mountains, "Lander's Peak", Albert Bierstadt, 1863](https://harvardartmuseums.org/collections/object/303976?position=2)
 
@@ -254,6 +264,8 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 
 ## 1869: Friedrich Miescher isolates “nuclein” from cell nuclei ([32](https://www.genome.gov/25520232/online-education-kit-1869-dna-first-isolated), [33](https://dnalc.cshl.edu/view/16003-Miescher-and-the-isolation-of-DNA.html))
 
+![pic](/images/1869.jpg)
+
 ### Art Piece: [Alchemist's Laboratory, André Louis Victor Texier, 19th Century](https://harvardartmuseums.org/collections/object/241043?position=37)
 
 ### Paper: [Friedrich Miescher and the discovery of DNA](https://www.sciencedirect.com/science/article/pii/S0012160604008231)
@@ -279,6 +291,8 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 ***
 
 ## 1943: Erwin Schroedinger discusses that genetic material most likely resembles an “aperiodic crystal” ([36](https://www.nature.com/articles/d41586-018-06166-x))
+
+![pic](/images/1943.jpg)
 
 ### Art Piece: [Conical Shape. Crystal of Said Hippuric Acid Compound, Carl Struwe, 1927](https://harvardartmuseums.org/collections/object/355621?position=30)
 
@@ -338,6 +352,8 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 
 ## 1962: Thomas Kuhn’s <em>The Structure of Scientific Revolutions</em> is published ([44](https://www.lri.fr/~mbl/Stanford/CS477/papers/Kuhn-SSR-2ndEd.pdf))
 
+![pic](/images/1962.jpg)
+
 ### Art Piece: [Allegory in Honor of the Roman College, Claude Mellan, 17th Century](https://harvardartmuseums.org/collections/object/240723?position=159)
 
 ### Paper: [Socioeconomic gaps in science achievement](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-018-0132-5)
@@ -359,6 +375,8 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 ***
 
 ## 2020: Jennifer Doudna and Emmanuelle Charpentier win the Nobel Prize in Chemistry for CRISPR ([46](https://www.nature.com/articles/d41586-020-02765-9))
+
+![pic](/images/2020.jpg)
 
 ### Art Piece: [Chemistry Building, Brookhaven National Lab, Per Brandin, 1978](https://harvardartmuseums.org/collections/object/159318?position=0)
 
