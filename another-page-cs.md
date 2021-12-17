@@ -8,6 +8,8 @@ nav_order: 2
 # Timeline of Events
 My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science Through Time" because I was fascinated by all of the different scientific dicoveries through time that we learned about in class. All of these discoveries, ideas, and theories were revolutionary in some way, and helped shift the paradigms of their respective times. Thanks to these various discovereies, people were able to see the world in a new or different light than before. Moreover, all of these ideas are also related to Darwin and Wallace's ideas in some way — whether these scientific discoveries/theories influenced the theory of evolution directly or were helpful to Darwin in writing his monumental book, all of these ideas are related to evolution (and GenEd 1004).
 
+## Please click the "Read the full explanation here" hyperlinks for each time point/event so that you can read my full explanations and dicsussions about the event, the artwork, the scientific paper, and how all of them relate to each other! I realize that the paper requirement is 10pp, but since I'm doing this project instead, I essentialy wrote each time point/event's explanation like a mini paper in and of itself so that way I could exceed this 10pp project-equivalent requirement. I hope you enjoy these mini papers, and I hope you enjoy learning about these events which shifted scientific paradigms, art related to these paradigm shifts, and relevant scientific papers! If instead of the full timeline you just want a list of the events that you can click the name of and get the mini paper, then please click [here](google.com).
+
 ***
 ***
 ***
