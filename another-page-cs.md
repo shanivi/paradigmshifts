@@ -126,7 +126,7 @@ My project is entitled "Darwinism and (R)evolution: Paradigm Shifts and Science 
 
 ***
 
-## 1776: <em>The Wealth of Nations</em> by Adam Smith is published ([16](https://www.biodiversitylibrary.org/bibliography/60802))
+## 1776: <em>The Wealth of Nations</em> by Adam Smith is published ([16](https://www.gutenberg.org/files/3300/3300-h/3300-h.htm))
 
 ![pic](/images/1776.jpg)
 
