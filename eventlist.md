@@ -3,7 +3,7 @@ Please note: because this page is just the time points/events with the time poin
 
 ## <em>1500s and 1600s</em>
 - [Between 6th and 5th centuries BC: Approximate writing of <em>the Book of Genesis</em> []; Approximately 8 CE: The Metamorphoses, Ovid []]((https://shanivi.github.io/paradigmshifts/65))
-- [## 1543: First printing of Copernicus’ <em>On the Revolutions of the Heavenly Spheres</em>](https://shanivi.github.io/paradigmshifts/1543)
+- [1543: First printing of Copernicus’ <em>On the Revolutions of the Heavenly Spheres</em>](https://shanivi.github.io/paradigmshifts/1543)
 - [1551-1558 and 1587: Conrad Gessner’s <em>History of the Animals</em> published](https://shanivi.github.io/paradigmshifts/1551)
 - [1620: Francis Bacon’s <em>Novum Organum</em> published](https://shanivi.github.io/paradigmshifts/1620)
 - [1618-1621: Printing of Johannes Kepler’s <em>Epitome Astronomiae Copernicanae</em>](https://shanivi.github.io/paradigmshifts/1618)
