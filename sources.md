@@ -13,9 +13,9 @@ nav_order: 3
 3. *Adam Smith From The Wealth of Nations 1776 Of Colonies < 1776-1785 < Documents < American History From Revolution To Reconstruction and beyond*. (n.d.). Retrieved December 15, 2021, from[ ](http://www.let.rug.nl/usa/documents/1776-1785/adam-smith-from-the-wealth-of-nations-1776-of-colonies.php)<http://www.let.rug.nl/usa/documents/1776-1785/adam-smith-from-the-wealth-of-nations-1776-of-colonies.php>
 4. Aert Schouman, Dutch (Dordrecht, Netherlands 1710 - 1792 The Hague, Netherlands). (n.d.). *From the Harvard Art Museums’ collections A Serpentine Plant (Ophioxylum Serpentinum)*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/360614)<https://harvardartmuseums.org/collections/object/360614>
 5. Albert Bierstadt, American (Solingen (near Dusseldorf), Germany 1830 - 1902 New York, NY). (n.d.). *From the Harvard Art Museums’ collections Rocky Mountains, “Lander’s Peak.”* Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/303976)<https://harvardartmuseums.org/collections/object/303976>
-6. *Alchemy | Definition, History, Meaning, & Facts | Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/alchemy)<https://www.britannica.com/topic/alchemy>
-7. *An Essay on Man | British Literature Wiki*. (n.d.). Retrieved December 15, 2021, from[ ](https://sites.udel.edu/britlitwiki/an-essay-on-man/)<https://sites.udel.edu/britlitwiki/an-essay-on-man/>
-8. *An Essay on Man | poem by Pope | Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/An-Essay-on-Man)<https://www.britannica.com/topic/An-Essay-on-Man>
+6. *Alchemy , Definition, History, Meaning, & Facts , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/alchemy)<https://www.britannica.com/topic/alchemy>
+7. *An Essay on Man , British Literature Wiki*. (n.d.). Retrieved December 15, 2021, from[ ](https://sites.udel.edu/britlitwiki/an-essay-on-man/)<https://sites.udel.edu/britlitwiki/an-essay-on-man/>
+8. *An Essay on Man , poem by Pope , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/An-Essay-on-Man)<https://www.britannica.com/topic/An-Essay-on-Man>
 9. *Ancient Greek Coinage—World History Encyclopedia*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.worldhistory.org/Greek_Coinage/)<https://www.worldhistory.org/Greek_Coinage/>
 10.  André Louis Victor Texier, French (La Rochelle 1777 - 1864 Paris), After Thomas Wyck, Dutch (Beverwijk 1616-1677 Haarlem), & Harvard. (n.d.). *From the Harvard Art Museums’ collections Alchemist’s Laboratory*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/241043)<https://harvardartmuseums.org/collections/object/241043>
 11.  Aretz, S., Borowski, A., & Schmeling, S. (2016). A fairytale creation or the beginning of everything: Students’ pre-instructional conceptions about the Big Bang theory. *Perspectives in Science*, *10*, 46–58.[ ](https://doi.org/10.1016/j.pisc.2016.08.003)<https://doi.org/10.1016/j.pisc.2016.08.003>
@@ -23,20 +23,26 @@ nav_order: 3
 13.  Barton, J., & Muddiman, J. (2001). *The Oxford Bible Commentary*. OUP Oxford.
 14.  Bernart Prooijs, Netherlandish. (n.d.). *From the Harvard Art Museums’ collections Wisdom Triumphing over Death, Evil, and Vice*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/294667)<https://harvardartmuseums.org/collections/object/294667>
 15.  Betancur, L., Votruba-Drzal, E., & Schunn, C. (2018). Socioeconomic gaps in science achievement. *International Journal of STEM Education*, *5*(1), 38.[ ](https://doi.org/10.1186/s40594-018-0132-5)<https://doi.org/10.1186/s40594-018-0132-5>
-16.  *Bible Gateway Genesis 1: NIV*. (n.d.). Retrieved December 15, 2021, from[ ](https://web.mit.edu/jywang/www/cef/Bible/NIV/NIV_Bible/GEN+1.html)<https://web.mit.edu/jywang/www/cef/Bible/NIV/NIV_Bible/GEN+1.html>
-17.  *Biographical Overview*. (2019, March 12). Rosalind Franklin - Profiles in Science.[ ](https://profiles.nlm.nih.gov/spotlight/kr/feature/biographical)<https://profiles.nlm.nih.gov/spotlight/kr/feature/biographical>
-18.  Bird, A. (2018). Thomas Kuhn. In E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy* (Winter 2018). Metaphysics Research Lab, Stanford University.[ ](https://plato.stanford.edu/archives/win2018/entrieshomas-kuhn/)<https://plato.stanford.edu/archives/win2018/entrieshomas-kuhn/>
-19.  *Breaking the Code*. (2011, April 19). Science History Institute.[ ](https://www.sciencehistory.org/distillations/breaking-the-code)<https://www.sciencehistory.org/distillations/breaking-the-code>
-20.  Brett Weston, American (Los Angeles, California 1911 - 1993 Hawaii). (n.d.). *From the Harvard Art Museums’ collections Untitled (rock formation)*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/157964)<https://harvardartmuseums.org/collections/object/157964>
-21.  Carl Strüwe, German (Bielefeld, Germany 1898 - 1988 Bielefeld, Germany). (n.d.). *From the Harvard Art Museums’ collections Conical Shape. Crystal of Said Hippuric Acid Compound.* Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/355621)<https://harvardartmuseums.org/collections/object/355621>
 
-*Carolus Linnaeus | Biography, Education, Classification System, & Facts | Britannica*. (n.d.-a). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Carolus-Linnaeus)<https://www.britannica.com/biography/Carolus-Linnaeus>
+*Bible Gateway Genesis 1: NIV*. (n.d.). Retrieved December 15, 2021, from[ ](https://web.mit.edu/jywang/www/cef/Bible/NIV/NIV_Bible/GEN+1.html)<https://web.mit.edu/jywang/www/cef/Bible/NIV/NIV_Bible/GEN+1.html>
 
-*Carolus Linnaeus | Biography, Education, Classification System, & Facts | Britannica*. (n.d.-b). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/Systema-Naturae)<https://www.britannica.com/topic/Systema-Naturae>
+*Biographical Overview*. (2019, March 12). Rosalind Franklin - Profiles in Science.[ ](https://profiles.nlm.nih.gov/spotlight/kr/feature/biographical)<https://profiles.nlm.nih.gov/spotlight/kr/feature/biographical>
 
-CDC. (2020, August 3). *What is Epigenetics? | CDC*. Centers for Disease Control and Prevention.[ ](https://www.cdc.gov/genomics/disease/epigenetics.htm)<https://www.cdc.gov/genomics/disease/epigenetics.htm>
+Bird, A. (2018). Thomas Kuhn. In E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy* (Winter 2018). Metaphysics Research Lab, Stanford University.[ ](https://plato.stanford.edu/archives/win2018/entrieshomas-kuhn/)<https://plato.stanford.edu/archives/win2018/entrieshomas-kuhn/>
 
-*Charles Lyell | Biography, Theory, Books, & Facts | Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Charles-Lyell)<https://www.britannica.com/biography/Charles-Lyell>
+*Breaking the Code*. (2011, April 19). Science History Institute.[ ](https://www.sciencehistory.org/distillations/breaking-the-code)<https://www.sciencehistory.org/distillations/breaking-the-code>
+
+Brett Weston, American (Los Angeles, California 1911 - 1993 Hawaii). (n.d.). *From the Harvard Art Museums’ collections Untitled (rock formation)*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/157964)<https://harvardartmuseums.org/collections/object/157964>
+
+Carl Strüwe, German (Bielefeld, Germany 1898 - 1988 Bielefeld, Germany). (n.d.). *From the Harvard Art Museums’ collections Conical Shape. Crystal of Said Hippuric Acid Compound.* Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/355621)<https://harvardartmuseums.org/collections/object/355621>
+
+*Carolus Linnaeus , Biography, Education, Classification System, & Facts , Britannica*. (n.d.-a). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Carolus-Linnaeus)<https://www.britannica.com/biography/Carolus-Linnaeus>
+
+*Carolus Linnaeus , Biography, Education, Classification System, & Facts , Britannica*. (n.d.-b). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/Systema-Naturae)<https://www.britannica.com/topic/Systema-Naturae>
+
+CDC. (2020, August 3). *What is Epigenetics? , CDC*. Centers for Disease Control and Prevention.[ ](https://www.cdc.gov/genomics/disease/epigenetics.htm)<https://www.cdc.gov/genomics/disease/epigenetics.htm>
+
+*Charles Lyell , Biography, Theory, Books, & Facts , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Charles-Lyell)<https://www.britannica.com/biography/Charles-Lyell>
 
 Chinese. (n.d.). *From the Harvard Art Museums’ collections Circular Dish with Phoenix-and-Cloud Decor*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/205500)<https://harvardartmuseums.org/collections/object/205500>
 
@@ -48,9 +54,9 @@ Cold Spring Harbor Laboratory, D. L. C. (n.d.-a). *Miescher and the isolation of
 
 Cold Spring Harbor Laboratory, D. L. C. (n.d.-b). *Oswald Avery (c.1930): CSHL DNA Learning Center*. Retrieved December 15, 2021, from[ ](https://dnalc.cshl.edu/view/15674-Oswald-Avery-c-1930-.html)<https://dnalc.cshl.edu/view/15674-Oswald-Avery-c-1930-.html>
 
-*Competitive Science: Is Competition Ruining Science? | Infection and Immunity*. (n.d.). Retrieved December 15, 2021, from[ ](https://journals.asm.org/doi/10.1128/IAI.02939-14)<https://journals.asm.org/doi/10.1128/IAI.02939-14>
+*Competitive Science: Is Competition Ruining Science? , Infection and Immunity*. (n.d.). Retrieved December 15, 2021, from[ ](https://journals.asm.org/doi/10.1128/IAI.02939-14)<https://journals.asm.org/doi/10.1128/IAI.02939-14>
 
-*Conrad Gesner | Biography & Facts | Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Conrad-Gesner)<https://www.britannica.com/biography/Conrad-Gesner>
+*Conrad Gesner , Biography & Facts , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Conrad-Gesner)<https://www.britannica.com/biography/Conrad-Gesner>
 
 *Conradi Gesneri ... Historiae animalium lib. I[-IIII]*. (n.d.). [Image]. Library of Congress, Washington, D.C. 20540 USA. Retrieved December 15, 2021, from[ ](https://www.loc.gov/item/06004347/)<https://www.loc.gov/item/06004347/>
 
@@ -72,7 +78,7 @@ Darwin, C. (n.d.). *The Project Gutenberg eBook of On the Origin of Species, by 
 
 Darwin, E. (n.d.). *Zoonomia ; or, The laws of organic life*.
 
-*Darwin’s greatest discovery: Design without designer | PNAS*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.pnas.org/content/104/suppl_1/8567)<https://www.pnas.org/content/104/suppl_1/8567>
+*Darwin’s greatest discovery: Design without designer , PNAS*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.pnas.org/content/104/suppl_1/8567)<https://www.pnas.org/content/104/suppl_1/8567>
 
 *De Revolutionibus Orbium Coelestium*. (n.d.). Retrieved December 15, 2021, from[ ](https://ads.harvard.edu/books/1543droc.book/)<https://ads.harvard.edu/books/1543droc.book/>
 
@@ -80,9 +86,9 @@ Darwin, E. (n.d.). *Zoonomia ; or, The laws of organic life*.
 
 Denis-Auguste-Marie Raffet, French (Paris 1804 - 1860 Genoa). (n.d.). *From the Harvard Art Museums’ collections Breakthrough*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/279752)<https://harvardartmuseums.org/collections/object/279752>
 
-Diagnostic Molecular Biology, 2019. (n.d.). *Griffith’s Experiment—An overview | ScienceDirect Topics*. Retrieved December 15, 2021, from[ ](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/griffiths-experiment)<https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/griffiths-experiment>
+Diagnostic Molecular Biology, 2019. (n.d.). *Griffith’s Experiment—An overview , ScienceDirect Topics*. Retrieved December 15, 2021, from[ ](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/griffiths-experiment)<https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/griffiths-experiment>
 
-*Discovery of DNA Double Helix: Watson and Crick | Learn Science at Scitable*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/)<https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/>
+*Discovery of DNA Double Helix: Watson and Crick , Learn Science at Scitable*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/)<https://www.nature.com/scitable/topicpage/discovery-of-dna-structure-and-function-watson-397/>
 
 Dobzhansky, T. (1973). Nothing in Biology Makes Sense except in the Light of Evolution. *The American Biology Teacher*, *35*(3), 125–129.[ ](https://doi.org/10.2307/4444260)<https://doi.org/10.2307/4444260>
 
@@ -92,11 +98,11 @@ Eldredge, N. (2008). The Early “Evolution” of “Punctuated Equilibria.” *
 
 Emanuel Gottlieb Leutze, American (Schwäbisch-Gmünd, Germany 1816 - 1868 Washington, DC). (n.d.). *From the Harvard Art Museums’ collections The Summons*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/320161)<https://harvardartmuseums.org/collections/object/320161>
 
-*Erasmus Darwin | British physician | Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/Zoonomia-or-The-Laws-of-Organic-Life)<https://www.britannica.com/topic/Zoonomia-or-The-Laws-of-Organic-Life>
+*Erasmus Darwin , British physician , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/Zoonomia-or-The-Laws-of-Organic-Life)<https://www.britannica.com/topic/Zoonomia-or-The-Laws-of-Organic-Life>
 
 *Erwin Chargaff*. (n.d.). National Science and Technology Medals Foundation. Retrieved December 15, 2021, from[ ](https://nationalmedals.org/laureate/erwin-chargaff/)<https://nationalmedals.org/laureate/erwin-chargaff/>
 
-*Erwin Schrodinger | Biography, Atomic Model, Cat, & Facts | Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Erwin-Schrodinger)<https://www.britannica.com/biography/Erwin-Schrodinger>
+*Erwin Schrodinger , Biography, Atomic Model, Cat, & Facts , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Erwin-Schrodinger)<https://www.britannica.com/biography/Erwin-Schrodinger>
 
 *Evolution: Library: Darwin and Malthus*. (n.d.-a). Retrieved December 15, 2021, from[ ](https://www.pbs.org/wgbh/evolution/library/02/5/l_025_01.html)<https://www.pbs.org/wgbh/evolution/library/02/5/l_025_01.html>
 
@@ -106,13 +112,13 @@ Fink, G. R. (2005). A Transforming Principle. *Cell*, *120*(2), 153–154.[ ](ht
 
 Flajnik, M. F., & Kasahara, M. (2010). Origin and evolution of the adaptive immune system: Genetic events and selective pressures. *Nature Reviews Genetics*, *11*(1), 47–59.[ ](https://doi.org/10.1038/nrg2703)<https://doi.org/10.1038/nrg2703>
 
-*Francis Bacon and the scientific revolution (article) | Khan Academy*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.khanacademy.org/_render)<https://www.khanacademy.org/_render>
+*Francis Bacon and the scientific revolution (article) , Khan Academy*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.khanacademy.org/_render)<https://www.khanacademy.org/_render>
 
 *Genesis 1 BSB*. (n.d.). Retrieved December 15, 2021, from[ ](https://biblehub.com/bsb/genesis/1.htm)<https://biblehub.com/bsb/genesis/1.htm>
 
 *Genesis 1:26 Then God said, “Let Us make man in Our image, according to Our likeness; and let them rule over the fish of the sea and over the birds of the sky and over the cattle and over all the earth, and over every creeping thing that creeps on the earth.”* (n.d.). Retrieved December 15, 2021, from[ ](https://bible.knowing-jesus.com/Genesis/1/26)<https://bible.knowing-jesus.com/Genesis/1/26>
 
-*Georges Cuvier | Biography & Facts | Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Georges-Cuvier)<https://www.britannica.com/biography/Georges-Cuvier>
+*Georges Cuvier , Biography & Facts , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Georges-Cuvier)<https://www.britannica.com/biography/Georges-Cuvier>
 
 Gingerich, O. (1972). Johannes Kepler and the New Astronomy. *Quarterly Journal of the Royal Astronomical Society*, *13*, 346.
 
@@ -124,7 +130,7 @@ Greek. (n.d.). *From the Harvard Art Museums’ collections Forty Litrae of Syra
 
 Gregory, T. R. (2009). The Argument from Design: A Guided Tour of William Paley’s Natural Theology (1802). *Evolution: Education and Outreach*, *2*(4), 602–611.[ ](https://doi.org/10.1007/s12052-009-0184-6)<https://doi.org/10.1007/s12052-009-0184-6>
 
-*GW Ori: Circumtriple rings and planets | Monthly Notices of the Royal Astronomical Society | Oxford Academic*. (n.d.). Retrieved December 15, 2021, from[ ](https://academic.oup.com/mnras/article-abstract/508/1/392/6371904?redirectedFrom=fulltext)<https://academic.oup.com/mnras/article-abstract/508/1/392/6371904?redirectedFrom=fulltext>
+*GW Ori: Circumtriple rings and planets , Monthly Notices of the Royal Astronomical Society , Oxford Academic*. (n.d.). Retrieved December 15, 2021, from[ ](https://academic.oup.com/mnras/article-abstract/508/1/392/6371904?redirectedFrom=fulltext)<https://academic.oup.com/mnras/article-abstract/508/1/392/6371904?redirectedFrom=fulltext>
 
 Harrison, M. (2005). Science and the British Empire. *Isis*, *96*(1), 56–63.[ ](https://doi.org/10.1086/430678)<https://doi.org/10.1086/430678>
 
@@ -136,15 +142,15 @@ Hirasawa, T., & Kuratani, S. (2015). Evolution of the vertebrate skeleton: Morph
 
 *Historical perspective [This Dynamic Earth, USGS]*. (n.d.). Retrieved December 15, 2021, from[ ](https://pubs.usgs.gov/gip/dynamic/historical.html)<https://pubs.usgs.gov/gip/dynamic/historical.html>
 
-*history of Europe—Renaissance science and technology | Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/history-of-Europe/Renaissance-science-and-technology)<https://www.britannica.com/topic/history-of-Europe/Renaissance-science-and-technology>
+*history of Europe—Renaissance science and technology , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/history-of-Europe/Renaissance-science-and-technology)<https://www.britannica.com/topic/history-of-Europe/Renaissance-science-and-technology>
 
 Hodos, W. (2009). Evolution and the Scala Naturae. In M. D. Binder, N. Hirokawa, & U. Windhorst (Eds.), *Encyclopedia of Neuroscience* (pp. 1212–1215). Springer.[ ](https://doi.org/10.1007/978-3-540-29678-2_3118)<https://doi.org/10.1007/978-3-540-29678-2_3118>
 
 *How Does Man’s History Fit with the Biblical Timeline?* (n.d.). Answers in Genesis. Retrieved December 15, 2021, from[ ](https://answersingenesis.org/bible-timeline/how-does-mans-history-fit-with-the-biblical-timeline/)<https://answersingenesis.org/bible-timeline/how-does-mans-history-fit-with-the-biblical-timeline/>
 
-*Humour | ancient physiology | Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/science/humor-ancient-physiology)<https://www.britannica.com/science/humor-ancient-physiology>
+*Humour , ancient physiology , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/science/humor-ancient-physiology)<https://www.britannica.com/science/humor-ancient-physiology>
 
-*In Search of Myths & Heroes. Jason & the Argonauts | PBS*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.pbs.org/mythsandheroes/myths_four_jason.html)<https://www.pbs.org/mythsandheroes/myths_four_jason.html>
+*In Search of Myths & Heroes. Jason & the Argonauts , PBS*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.pbs.org/mythsandheroes/myths_four_jason.html)<https://www.pbs.org/mythsandheroes/myths_four_jason.html>
 
 *Insects – John Ray Trust*. (n.d.). Retrieved December 15, 2021, from[ ](https://johnraytrust.com/insects/)<https://johnraytrust.com/insects/>
 
@@ -154,7 +160,7 @@ Ito, T., & Tanikawa, K. (2002). Long-term integrations and stability of planetar
 
 Jean-Baptiste Pierre Antoine de Monet, Chevalier de Lamarck. (n.d.). *Lamarck: Philosophie zoologique*. Retrieved December 15, 2021, from[ ](https://www.ucl.ac.uk/taxome/jim/Mim/lamarck_contents.html)<https://www.ucl.ac.uk/taxome/jim/Mim/lamarck_contents.html>
 
-*Jennifer A. Doudna | Research UC Berkeley*. (n.d.). Retrieved December 15, 2021, from[ ](https://vcresearch.berkeley.edu/faculty/jennifer-doudna)<https://vcresearch.berkeley.edu/faculty/jennifer-doudna>
+*Jennifer A. Doudna , Research UC Berkeley*. (n.d.). Retrieved December 15, 2021, from[ ](https://vcresearch.berkeley.edu/faculty/jennifer-doudna)<https://vcresearch.berkeley.edu/faculty/jennifer-doudna>
 
 Jinek, M., Chylinski, K., Fonfara, I., Hauer, M., Doudna, J. A., & Charpentier, E. (2012). A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity. *Science (New York, N.Y.)*, *337*(6096), 816–821.[ ](https://doi.org/10.1126/science.1225829)<https://doi.org/10.1126/science.1225829>
 
@@ -162,7 +168,7 @@ Johann Sadeler I, Netherlandish (1550 - 1600-8), After Maerten de Vos, Netherlan
 
 Johann Wilhelm Baur, German (1607 - 1641). (n.d.). *From the Harvard Art Museums’ collections Cybele Transforms the Ships of Aeneas into Sea Nymphs*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/92828)<https://harvardartmuseums.org/collections/object/92828>
 
-*Johannes Kepler | Biography, Discoveries, & Facts | Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Johannes-Kepler)<https://www.britannica.com/biography/Johannes-Kepler>
+*Johannes Kepler , Biography, Discoveries, & Facts , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Johannes-Kepler)<https://www.britannica.com/biography/Johannes-Kepler>
 
 *Johannes Kepler—Biography*. (n.d.). Maths History. Retrieved December 15, 2021, from[ ](https://mathshistory.st-andrews.ac.uk/Biographies/Kepler/)<https://mathshistory.st-andrews.ac.uk/Biographies/Kepler/>
 
@@ -176,11 +182,11 @@ Jolicoeur, M. M. (n.d.). *An Introduction to Punctuated Equilibrium: A Model for
 
 *Jolicoeur—An Introduction to Punctuated Equilibrium A Model.pdf*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.ncchpp.ca/docs/2018_ProcessPP_Intro_PunctuatedEquilibrium_EN.pdf)<https://www.ncchpp.ca/docs/2018_ProcessPP_Intro_PunctuatedEquilibrium_EN.pdf>
 
-*Karl Popper—Theory of Falsification | Simply Psychology*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.simplypsychology.org/Karl-Popper.html)<https://www.simplypsychology.org/Karl-Popper.html>
+*Karl Popper—Theory of Falsification , Simply Psychology*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.simplypsychology.org/Karl-Popper.html)<https://www.simplypsychology.org/Karl-Popper.html>
 
 Kepler, J. (1635). *Epitome Astronomiae Copernicanae: Usitata forma Quaestionum & Responsionum conscripta, inque VII. Libros digesta .... ... quorum Tres hi priores sunt de Doctrina Sphaerica*. Schönwetterus.
 
-*Kepler’s laws of planetary motion | Definition, Diagrams, & Facts | Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/science/Keplers-laws-of-planetary-motion)<https://www.britannica.com/science/Keplers-laws-of-planetary-motion>
+*Kepler’s laws of planetary motion , Definition, Diagrams, & Facts , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/science/Keplers-laws-of-planetary-motion)<https://www.britannica.com/science/Keplers-laws-of-planetary-motion>
 
 *Kepler’s Philosophy and the New Astronomy—Rhonda Martens—Google Books*. (n.d.). Retrieved December 15, 2021, from[ ](https://books.google.com/books?id=8ATfXOItxNQC&pg=PA142#v=onepage&q&f=false)<https://books.google.com/books?id=8ATfXOItxNQC&pg=PA142#v=onepage&q&f=false>
 
@@ -208,7 +214,7 @@ Lindberg, D. C., Porter, R., Numbers, R. L., Press, C. U., Park, K., Daston, L.,
 
 Linné, C. von, & Salvius, L. (1758). *Caroli Linnaei...Systema naturae per regna tria naturae :secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis.* (Vol. 1, pp. 1–881). Impensis Direct. Laurentii Salvii,.[ ](https://www.biodiversitylibrary.org/item/10277)<https://www.biodiversitylibrary.org/item/10277>
 
-*Linus Pauling Biography | Linus Pauling Institute | Oregon State University*. (n.d.). Retrieved December 15, 2021, from[ ](https://lpi.oregonstate.edu/about/linus-pauling-biography)<https://lpi.oregonstate.edu/about/linus-pauling-biography>
+*Linus Pauling Biography , Linus Pauling Institute , Oregon State University*. (n.d.). Retrieved December 15, 2021, from[ ](https://lpi.oregonstate.edu/about/linus-pauling-biography)<https://lpi.oregonstate.edu/about/linus-pauling-biography>
 
 Loison, L. (2018a). Lamarckism and epigenetic inheritance: A clarification. *Biology & Philosophy*, *33*(3), 29.[ ](https://doi.org/10.1007/s10539-018-9642-2)<https://doi.org/10.1007/s10539-018-9642-2>
 
@@ -240,13 +246,13 @@ Miller, S. L. (1953). A Production of Amino Acids under Possible Primitive Earth
 
 Mutalik, P. (2017, May 11). *Can Darwinian Evolution Explain Lamarckism?* Quanta Magazine.[ ](https://www.quantamagazine.org/can-darwinian-evolution-explain-lamarckism-20170511/)<https://www.quantamagazine.org/can-darwinian-evolution-explain-lamarckism-20170511/>
 
-*Natural Theology | Internet Encyclopedia of Philosophy*. (n.d.-a). Retrieved December 15, 2021, from[ ](https://iep.utm.edu/theo-nat/)<https://iep.utm.edu/theo-nat/>
+*Natural Theology , Internet Encyclopedia of Philosophy*. (n.d.-a). Retrieved December 15, 2021, from[ ](https://iep.utm.edu/theo-nat/)<https://iep.utm.edu/theo-nat/>
 
 Naughton, J. (2012, August 18). Thomas Kuhn: The man who changed the way the world looked at science. *The Observer*.[ ](https://www.theguardian.com/science/2012/aug/19/thomas-kuhn-structure-scientific-revolutions)<https://www.theguardian.com/science/2012/aug/19/thomas-kuhn-structure-scientific-revolutions>
 
 Near Eastern. (n.d.). *From the Harvard Art Museums’ collections Three Recumbent Animals on a Plaque*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/343020)<https://harvardartmuseums.org/collections/object/343020>
 
-*New Scientist 6—Nicholas Steno | Earth 520: Plate Tectonics and People: Foundations of Solid Earth Science*. (n.d.-a). Retrieved December 15, 2021, from[ ](https://www.e-education.psu.edu/earth520/node/1803)<https://www.e-education.psu.edu/earth520/node/1803>
+*New Scientist 6—Nicholas Steno , Earth 520: Plate Tectonics and People: Foundations of Solid Earth Science*. (n.d.-a). Retrieved December 15, 2021, from[ ](https://www.e-education.psu.edu/earth520/node/1803)<https://www.e-education.psu.edu/earth520/node/1803>
 
 *Nicolaus Steno*. (n.d.). Retrieved December 15, 2021, from[ ](https://earthobservatory.nasa.gov/features/Steno/steno3.php)<https://earthobservatory.nasa.gov/features/Steno/steno3.php>
 
@@ -254,9 +260,9 @@ Near Eastern. (n.d.). *From the Harvard Art Museums’ collections Three Recumbe
 
 Nirenberg, M. W., & Matthaei, J. H. (1961). The dependence of cell-free protein synthesis in E. coli upon naturally occurring or synthetic polyribonucleotides. *Proceedings of the National Academy of Sciences*, *47*(10), 1588–1602.[ ](https://doi.org/10.1073/pnas.47.10.1588)<https://doi.org/10.1073/pnas.47.10.1588>
 
-*Novum Organum | Online Library of Liberty*. (n.d.). Retrieved December 15, 2021, from[ ](https://oll.libertyfund.org/title/bacon-novum-organum)<https://oll.libertyfund.org/title/bacon-novum-organum>
+*Novum Organum , Online Library of Liberty*. (n.d.). Retrieved December 15, 2021, from[ ](https://oll.libertyfund.org/title/bacon-novum-organum)<https://oll.libertyfund.org/title/bacon-novum-organum>
 
-*Novum Organum | work by Bacon | Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/Novum-Organum)<https://www.britannica.com/topic/Novum-Organum>
+*Novum Organum , work by Bacon , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/Novum-Organum)<https://www.britannica.com/topic/Novum-Organum>
 
 *On the Revolutions of the Heavenly Spheres, 1543*. (2015, June 23). Galileo.[ ](https://galileo.ou.edu/exhibits/revolutions-heavenly-spheres-1543)<https://galileo.ou.edu/exhibits/revolutions-heavenly-spheres-1543>
 
@@ -268,7 +274,7 @@ Padial, J. M., Miralles, A., De la Riva, I., & Vences, M. (2010). The integrativ
 
 Paley, W. (1802). *Natural Theology: Or, Evidences of the Existence and Attributes of the Deity, Collected from the Appearances of Nature*. Gregg International.
 
-*P.A.M. Dirac | English physicist | Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Paul-Dirac)<https://www.britannica.com/biography/Paul-Dirac>
+*P.A.M. Dirac , English physicist , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Paul-Dirac)<https://www.britannica.com/biography/Paul-Dirac>
 
 Per Brandin, American (born 1953). (n.d.). *From the Harvard Art Museums’ collections Chemistry Building, Brookhaven National Lab*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/159318)<https://harvardartmuseums.org/collections/object/159318>
 
@@ -280,21 +286,21 @@ Pope, A. (n.d.). *Essay on Man*. Retrieved December 15, 2021, from[ ](https://ww
 
 Popper, K. R. (2002). *The logic of scientific discovery*. Routledge.[ ](http://nukweb.nuk.uni-lj.si/login?url=http://search.ebscohost.com/login.aspx?authtype=ip&direct=true&db=nlebk&AN=143035&site=eds-live&scope=site&lang=sl)<http://nukweb.nuk.uni-lj.si/login?url=http://search.ebscohost.com/login.aspx?authtype=ip&direct=true&db=nlebk&AN=143035&site=eds-live&scope=site&lang=sl>
 
-*Popper, Karl: Philosophy of Science | Internet Encyclopedia of Philosophy*. (n.d.). Retrieved December 15, 2021, from[ ](https://iep.utm.edu/pop-sci/)<https://iep.utm.edu/pop-sci/>
+*Popper, Karl: Philosophy of Science , Internet Encyclopedia of Philosophy*. (n.d.). Retrieved December 15, 2021, from[ ](https://iep.utm.edu/pop-sci/)<https://iep.utm.edu/pop-sci/>
 
 *Popper—2002—The logic of scientific discovery.pdf*. (n.d.). Retrieved December 15, 2021, from[ ](https://edisciplinas.usp.br/pluginfile.php/5536771/mod_resource/content/1/%5BKarl_Popper%5D_The_logic_of_scientific_discovery%28z-lib.org%29.pdf)<https://edisciplinas.usp.br/pluginfile.php/5536771/mod_resource/content/1/%5BKarl_Popper%5D_The_logic_of_scientific_discovery%28z-lib.org%29.pdf>
 
 *Principle of Falsification*. (n.d.). Retrieved December 15, 2021, from[ ](http://abyss.uoregon.edu/~js/glossary/principle_of_falsification.html)<http://abyss.uoregon.edu/~js/glossary/principle_of_falsification.html>
 
-*Prof. Emmanuelle Charpentier, Ph.D. | Max-Planck-Gesellschaft*. (n.d.-a). Retrieved December 15, 2021, from[ ](https://www.mpg.de/9343753/science-of-pathogens-charpentier)<https://www.mpg.de/9343753/science-of-pathogens-charpentier>
+*Prof. Emmanuelle Charpentier, Ph.D. , Max-Planck-Gesellschaft*. (n.d.-a). Retrieved December 15, 2021, from[ ](https://www.mpg.de/9343753/science-of-pathogens-charpentier)<https://www.mpg.de/9343753/science-of-pathogens-charpentier>
 
-*Prof. Emmanuelle Charpentier, Ph.D. | Max-Planck-Gesellschaft*. (n.d.-b). Retrieved December 15, 2021, from[ ](https://www.mpg.de/9343753/science-of-pathogens-charpentier)<https://www.mpg.de/9343753/science-of-pathogens-charpentier>
+*Prof. Emmanuelle Charpentier, Ph.D. , Max-Planck-Gesellschaft*. (n.d.-b). Retrieved December 15, 2021, from[ ](https://www.mpg.de/9343753/science-of-pathogens-charpentier)<https://www.mpg.de/9343753/science-of-pathogens-charpentier>
 
 *Project MUSE - Victorian Sensation: The Extraordinary Publication, Reception, and Secret Authorship of Vestiges of the Natural History of Creation (review)*. (n.d.-a). Retrieved December 15, 2021, from[ ](https://muse.jhu.edu/article/16443)<https://muse.jhu.edu/article/16443>
 
-*Punctuated equilibrium model | biology | Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/science/punctuated-equilibrium-model)<https://www.britannica.com/science/punctuated-equilibrium-model>
+*Punctuated equilibrium model , biology , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/science/punctuated-equilibrium-model)<https://www.britannica.com/science/punctuated-equilibrium-model>
 
-*Quantum mechanics | Definition, Development, & Equations | Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/science/quantum-mechanics-physics)<https://www.britannica.com/science/quantum-mechanics-physics>
+*Quantum mechanics , Definition, Development, & Equations , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/science/quantum-mechanics-physics)<https://www.britannica.com/science/quantum-mechanics-physics>
 
 Rahbek, C., Borregaard, M. K., Antonelli, A., Colwell, R. K., Holt, B. G., Nogues-Bravo, D., Rasmussen, C. M. Ø., Richardson, K., Rosing, M. T., Whittaker, R. J., & Fjeldså, J. (2019). Building mountain biodiversity: Geological and evolutionary processes. *Science*, *365*(6458), 1114–1119.[ ](https://doi.org/10.1126/science.aax0151)<https://doi.org/10.1126/science.aax0151>
 
@@ -310,7 +316,7 @@ Roman Imperial period, Late. (n.d.-b). *From the Harvard Art Museums’ collecti
 
 Rull, V. (2014). The most important application of science. *EMBO Reports*, *15*(9), 919–922.[ ](https://doi.org/10.15252/embr.201438848)<https://doi.org/10.15252/embr.201438848>
 
-*Shark evolution: A 450 million year timeline | Natural History Museum*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.nhm.ac.uk/discover/shark-evolution-a-450-million-year-timeline.html)<https://www.nhm.ac.uk/discover/shark-evolution-a-450-million-year-timeline.html>
+*Shark evolution: A 450 million year timeline , Natural History Museum*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.nhm.ac.uk/discover/shark-evolution-a-450-million-year-timeline.html)<https://www.nhm.ac.uk/discover/shark-evolution-a-450-million-year-timeline.html>
 
 Simpson, G. G. (1970). Uniformitarianism. An Inquiry into Principle, Theory, and Method in Geohistory and Biohistory. In M. K. Hecht & W. C. Steere (Eds.), *Essays in Evolution and Genetics in Honor of Theodosius Dobzhansky: A Supplement to Evolutionary Biology* (pp. 43–96). Springer US.[ ](https://doi.org/10.1007/978-1-4615-9585-4_2)<https://doi.org/10.1007/978-1-4615-9585-4_2>
 
@@ -326,19 +332,19 @@ Stefano Della Bella, Italian (Florence, Italy 1610 - 1664 Florence, Italy). (n.d
 
 Stéphane Pannemaker, Belgian (1847 - 1930), After Horace Vernet, French (1789-1863), & Harvard. (n.d.). *From the Harvard Art Museums’ collections Discovery of the Remains of Raphael in the Pantheon in Rome*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/240631)<https://harvardartmuseums.org/collections/object/240631>
 
-*Stephen Jay Gould | American paleontologist | Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Stephen-Jay-Gould)<https://www.britannica.com/biography/Stephen-Jay-Gould>
+*Stephen Jay Gould , American paleontologist , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Stephen-Jay-Gould)<https://www.britannica.com/biography/Stephen-Jay-Gould>
 
 Steven M. Carr. (n.d.). *Transformation Experiment*. Retrieved December 15, 2021, from[ ](https://www.mun.ca/biology/scarr/Transformation_Experiment.html)<https://www.mun.ca/biology/scarr/Transformation_Experiment.html>
 
 *Synthetic RNA and the Poly-U Experiments, 1959-1962*. (2019, March 12). Marshall W. Nirenberg - Profiles in Science.[ ](https://profiles.nlm.nih.gov/spotlight/jj/feature/syntheticrna)<https://profiles.nlm.nih.gov/spotlight/jj/feature/syntheticrna>
 
-*The Birth of Modern Science | Wiley*. (n.d.). Wiley.Com. Retrieved December 15, 2021, from[ ](https://www.wiley.com/en-us/The+Birth+of+Modern+Science-p-9780631227113)<https://www.wiley.com/en-us/The+Birth+of+Modern+Science-p-9780631227113>
+*The Birth of Modern Science , Wiley*. (n.d.). Wiley.Com. Retrieved December 15, 2021, from[ ](https://www.wiley.com/en-us/The+Birth+of+Modern+Science-p-9780631227113)<https://www.wiley.com/en-us/The+Birth+of+Modern+Science-p-9780631227113>
 
 The book that changed  the world. (2008, February 9). *The Guardian*.[ ](https://www.theguardian.com/science/2008/feb/09/darwin.bestseller)<https://www.theguardian.com/science/2008/feb/09/darwin.bestseller>
 
 *The Discovery of the Double Helix, 1951-1953*. (2019, March 12). Francis Crick - Profiles in Science.[ ](https://profiles.nlm.nih.gov/spotlight/sc/feature/doublehelix)<https://profiles.nlm.nih.gov/spotlight/sc/feature/doublehelix>
 
-*The Galileo Project | Biography | Telescope*. (n.d.). Retrieved December 15, 2021, from[ ](http://galileo.rice.edu/bio/narrative_6.html)<http://galileo.rice.edu/bio/narrative_6.html>
+*The Galileo Project , Biography , Telescope*. (n.d.). Retrieved December 15, 2021, from[ ](http://galileo.rice.edu/bio/narrative_6.html)<http://galileo.rice.edu/bio/narrative_6.html>
 
 The landmark lectures of physicist Erwin Schrödinger helped to change attitudes in biology. (2018a). *Nature*, *561*(7721), 6–6.[ ](https://doi.org/10.1038/d41586-018-06166-x)<https://doi.org/10.1038/d41586-018-06166-x>
 
@@ -350,13 +356,13 @@ The landmark lectures of physicist Erwin Schrödinger helped to change attitudes
 
 *The Observatory*. (n.d.). Retrieved December 15, 2021, from[ ](http://www.hcs.harvard.edu/~stahr/?page_id=542)<http://www.hcs.harvard.edu/~stahr/?page_id=542>
 
-*Theodosius Dobzhansky | American scientist | Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Theodosius-Dobzhansky)<https://www.britannica.com/biography/Theodosius-Dobzhansky>
+*Theodosius Dobzhansky , American scientist , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Theodosius-Dobzhansky)<https://www.britannica.com/biography/Theodosius-Dobzhansky>
 
-*Theory of the Earth | work by Hutton | Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/Theory-of-the-Earth)<https://www.britannica.com/topic/Theory-of-the-Earth>
+*Theory of the Earth , work by Hutton , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/Theory-of-the-Earth)<https://www.britannica.com/topic/Theory-of-the-Earth>
 
-*Thomas Kuhn Paradigm Shift | Simply Psychology*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.simplypsychology.org/Kuhn-Paradigm.html)<https://www.simplypsychology.org/Kuhn-Paradigm.html>
+*Thomas Kuhn Paradigm Shift , Simply Psychology*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.simplypsychology.org/Kuhn-Paradigm.html)<https://www.simplypsychology.org/Kuhn-Paradigm.html>
 
-*Thomas Malthus | Biography, Theory, Overpopulation, Poverty, & Facts | Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Thomas-Malthus)<https://www.britannica.com/biography/Thomas-Malthus>
+*Thomas Malthus , Biography, Theory, Overpopulation, Poverty, & Facts , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Thomas-Malthus)<https://www.britannica.com/biography/Thomas-Malthus>
 
 Thomas Robert Malthus. (n.d.). *An Essay on the Principle of Population*. Econlib. Retrieved December 15, 2021, from[ ](https://www.econlib.org/library/Malthus/malPlong.html)<https://www.econlib.org/library/Malthus/malPlong.html>
 
@@ -368,7 +374,7 @@ Turner, F. M. (Frank M. (2002). Victorian Sensation: The Extraordinary Publicati
 
 Unidentified Artists. (n.d.). *From the Harvard Art Museums’ collections Government, City: United States: Social Conditions, United States: Census of 1900: Proportion of Urban to Total Population, by States and Territories, at each Census.* Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/18637)<https://harvardartmuseums.org/collections/object/18637>
 
-*Uniformitarianism | National Geographic Society*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.nationalgeographic.org/encyclopedia/uniformitarianism/)<https://www.nationalgeographic.org/encyclopedia/uniformitarianism/>
+*Uniformitarianism , National Geographic Society*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.nationalgeographic.org/encyclopedia/uniformitarianism/)<https://www.nationalgeographic.org/encyclopedia/uniformitarianism/>
 
 *Unit 3 Detail 3 Review.pdf*. (n.d.). Retrieved December 15, 2021, from[ ](http://www.csun.edu/~sr6161/world/unit%203/Unit%203%20Detail%203%20Review.pdf)<http://www.csun.edu/~sr6161/world/unit%203/Unit%203%20Detail%203%20Review.pdf>
 
@@ -386,17 +392,19 @@ Watson, J. D., & Crick, F. H. C. (1953). Molecular Structure of Nucleic Acids: A
 
 *Watson\_The\_Double\_Helix.pdf*. (n.d.). Retrieved December 15, 2021, from[ ](http://sites.bu.edu/manove-ec101/files/2017/09/Watson_The_Double_Helix.pdf)<http://sites.bu.edu/manove-ec101/files/2017/09/Watson_The_Double_Helix.pdf>
 
-*Wave motion | physics | Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/science/wave-motion)<https://www.britannica.com/science/wave-motion>
+*Wave motion , physics , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/science/wave-motion)<https://www.britannica.com/science/wave-motion>
 
-*What Charles Darwin read on the “Beagle” | FifteenEightyFour | Cambridge University Press*. (n.d.). Retrieved December 15, 2021, from[ ](http://www.cambridgeblog.org/2014/11/what-charles-darwin-read-on-the-beagle/)<http://www.cambridgeblog.org/2014/11/what-charles-darwin-read-on-the-beagle/>
+*What Charles Darwin read on the “Beagle” , FifteenEightyFour , Cambridge University Press*. (n.d.). Retrieved December 15, 2021, from[ ](http://www.cambridgeblog.org/2014/11/what-charles-darwin-read-on-the-beagle/)<http://www.cambridgeblog.org/2014/11/what-charles-darwin-read-on-the-beagle/>
 
-*What is CRISPR? | New Scientist*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.newscientist.com/definition/what-is-crispr/)<https://www.newscientist.com/definition/what-is-crispr/>
+*What is CRISPR? , New Scientist*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.newscientist.com/definition/what-is-crispr/)<https://www.newscientist.com/definition/what-is-crispr/>
 
 *William Paley and the Divine Watchmaker*. (n.d.). OpenLearn. Retrieved December 15, 2021, from[ ](https://www.open.edu/openlearn/history-the-arts/culture/philosophy/william-paley-and-the-divine-watchmaker)<https://www.open.edu/openlearn/history-the-arts/culture/philosophy/william-paley-and-the-divine-watchmaker>
 
 William Rimmer, American (Liverpool, England 1816 - 1879 S. Milford, MA). (n.d.). *From the Harvard Art Museums’ collections Nude Male, for “Sadak...”, and Seated Figure; verso: Figure and Animal Sketches*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/306610)<https://harvardartmuseums.org/collections/object/306610>
 
 *Zoonomia ; or, The laws of organic life.pdf*. (n.d.). Retrieved December 15, 2021, from[ ](http://darwin-online.org.uk/converted/pdf/1794_Zoonomia_A967.1.pdf)<http://darwin-online.org.uk/converted/pdf/1794_Zoonomia_A967.1.pdf>
+
+
 
 
 
