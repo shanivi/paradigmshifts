@@ -6,59 +6,34 @@ nav_order: 3
 ---
 
 ## This page has all of the primary sources that I used in this project.
-### Please note: in addition to having this source list, I've also hyperlinked the primary source itself (when possible) to the place I was referencing it throughout all of my explanations. All sources are cited in APA 7 citation formatting and are listed below in alphabetical order.
+### Please note: in addition to having this source list, I've also hyperlinked the primary source itself (when possible) to the place I was referencing it throughout all of my explanations. All sources are cited in APA 7 citation formatting and are listed below in alphabetical order, I used Zotero to generate this bibliograhy.
 
-*1869: DNA First Isolated*. (n.d.-a). Genome.Gov. Retrieved December 15, 2021, from[ ](https://www.genome.gov/25520232/online-education-kit-1869-dna-first-isolated)<https://www.genome.gov/25520232/online-education-kit-1869-dna-first-isolated>
-
-*1869: DNA First Isolated*. (n.d.-b). Genome.Gov. Retrieved December 15, 2021, from[ ](https://www.genome.gov/25520232/online-education-kit-1869-dna-first-isolated)<https://www.genome.gov/25520232/online-education-kit-1869-dna-first-isolated>
-
-*1944: DNA is \"Transforming Principle\"*. (n.d.-a). Genome.Gov. Retrieved December 15, 2021, from[ ](https://www.genome.gov/25520250/online-education-kit-1944-dna-is-transforming-principle)<https://www.genome.gov/25520250/online-education-kit-1944-dna-is-transforming-principle>
-
-*1944: DNA is \"Transforming Principle\"*. (n.d.-b). Genome.Gov. Retrieved December 15, 2021, from[ ](https://www.genome.gov/25520250/online-education-kit-1944-dna-is-transforming-principle)<https://www.genome.gov/25520250/online-education-kit-1944-dna-is-transforming-principle>
-
-*Adam Smith From The Wealth of Nations 1776 Of Colonies < 1776-1785 < Documents < American History From Revolution To Reconstruction and beyond*. (n.d.). Retrieved December 15, 2021, from[ ](http://www.let.rug.nl/usa/documents/1776-1785/adam-smith-from-the-wealth-of-nations-1776-of-colonies.php)<http://www.let.rug.nl/usa/documents/1776-1785/adam-smith-from-the-wealth-of-nations-1776-of-colonies.php>
-
-Aert Schouman, Dutch (Dordrecht, Netherlands 1710 - 1792 The Hague, Netherlands). (n.d.). *From the Harvard Art Museums’ collections A Serpentine Plant (Ophioxylum Serpentinum)*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/360614)<https://harvardartmuseums.org/collections/object/360614>
-
-Albert Bierstadt, American (Solingen (near Dusseldorf), Germany 1830 - 1902 New York, NY). (n.d.). *From the Harvard Art Museums’ collections Rocky Mountains, “Lander’s Peak.”* Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/303976)<https://harvardartmuseums.org/collections/object/303976>
-
-*Alchemy , Definition, History, Meaning, & Facts , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/alchemy)<https://www.britannica.com/topic/alchemy>
-
-*An Essay on Man , British Literature Wiki*. (n.d.). Retrieved December 15, 2021, from[ ](https://sites.udel.edu/britlitwiki/an-essay-on-man/)<https://sites.udel.edu/britlitwiki/an-essay-on-man/>
-
-*An Essay on Man , poem by Pope , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/An-Essay-on-Man)<https://www.britannica.com/topic/An-Essay-on-Man>
-
-*Ancient Greek Coinage—World History Encyclopedia*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.worldhistory.org/Greek_Coinage/)<https://www.worldhistory.org/Greek_Coinage/>
-
-André Louis Victor Texier, French (La Rochelle 1777 - 1864 Paris), After Thomas Wyck, Dutch (Beverwijk 1616-1677 Haarlem), & Harvard. (n.d.). *From the Harvard Art Museums’ collections Alchemist’s Laboratory*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/241043)<https://harvardartmuseums.org/collections/object/241043>
-
-Aretz, S., Borowski, A., & Schmeling, S. (2016). A fairytale creation or the beginning of everything: Students’ pre-instructional conceptions about the Big Bang theory. *Perspectives in Science*, *10*, 46–58.[ ](https://doi.org/10.1016/j.pisc.2016.08.003)<https://doi.org/10.1016/j.pisc.2016.08.003>
-
-Avery, O. T., Macleod, C. M., & McCarty, M. (1944). STUDIES ON THE CHEMICAL NATURE OF THE SUBSTANCE INDUCING TRANSFORMATION OF PNEUMOCOCCAL TYPES: INDUCTION OF TRANSFORMATION BY A DESOXYRIBONUCLEIC ACID FRACTION ISOLATED FROM PNEUMOCOCCUS TYPE III. *The Journal of Experimental Medicine*, *79*(2), 137–158.[ ](https://doi.org/10.1084/jem.79.2.137)<https://doi.org/10.1084/jem.79.2.137>
-
-Barton, J., & Muddiman, J. (2001). *The Oxford Bible Commentary*. OUP Oxford.
-
-Bernart Prooijs, Netherlandish. (n.d.). *From the Harvard Art Museums’ collections Wisdom Triumphing over Death, Evil, and Vice*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/294667)<https://harvardartmuseums.org/collections/object/294667>
-
-Betancur, L., Votruba-Drzal, E., & Schunn, C. (2018). Socioeconomic gaps in science achievement. *International Journal of STEM Education*, *5*(1), 38.[ ](https://doi.org/10.1186/s40594-018-0132-5)<https://doi.org/10.1186/s40594-018-0132-5>
-
-*Bible Gateway Genesis 1: NIV*. (n.d.). Retrieved December 15, 2021, from[ ](https://web.mit.edu/jywang/www/cef/Bible/NIV/NIV_Bible/GEN+1.html)<https://web.mit.edu/jywang/www/cef/Bible/NIV/NIV_Bible/GEN+1.html>
-
-*Biographical Overview*. (2019, March 12). Rosalind Franklin - Profiles in Science.[ ](https://profiles.nlm.nih.gov/spotlight/kr/feature/biographical)<https://profiles.nlm.nih.gov/spotlight/kr/feature/biographical>
-
-Bird, A. (2018). Thomas Kuhn. In E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy* (Winter 2018). Metaphysics Research Lab, Stanford University.[ ](https://plato.stanford.edu/archives/win2018/entrieshomas-kuhn/)<https://plato.stanford.edu/archives/win2018/entrieshomas-kuhn/>
-
-*Breaking the Code*. (2011, April 19). Science History Institute.[ ](https://www.sciencehistory.org/distillations/breaking-the-code)<https://www.sciencehistory.org/distillations/breaking-the-code>
-
-Brett Weston, American (Los Angeles, California 1911 - 1993 Hawaii). (n.d.). *From the Harvard Art Museums’ collections Untitled (rock formation)*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/157964)<https://harvardartmuseums.org/collections/object/157964>
-
-Carl Strüwe, German (Bielefeld, Germany 1898 - 1988 Bielefeld, Germany). (n.d.). *From the Harvard Art Museums’ collections Conical Shape. Crystal of Said Hippuric Acid Compound.* Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/355621)<https://harvardartmuseums.org/collections/object/355621>
-
-*Carolus Linnaeus , Biography, Education, Classification System, & Facts , Britannica*. (n.d.-a). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Carolus-Linnaeus)<https://www.britannica.com/biography/Carolus-Linnaeus>
-
-*Carolus Linnaeus , Biography, Education, Classification System, & Facts , Britannica*. (n.d.-b). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/Systema-Naturae)<https://www.britannica.com/topic/Systema-Naturae>
-
-CDC. (2020, August 3). *What is Epigenetics? , CDC*. Centers for Disease Control and Prevention.[ ](https://www.cdc.gov/genomics/disease/epigenetics.htm)<https://www.cdc.gov/genomics/disease/epigenetics.htm>
+1. *1869: DNA First Isolated*. (n.d.-a). Genome.Gov. Retrieved December 15, 2021, from[ ](https://www.genome.gov/25520232/online-education-kit-1869-dna-first-isolated)<https://www.genome.gov/25520232/online-education-kit-1869-dna-first-isolated>
+2. *1869: DNA First Isolated*. (n.d.-b). Genome.Gov. Retrieved December 15, 2021, from[ ](https://www.genome.gov/25520232/online-education-kit-1869-dna-first-isolated)<https://www.genome.gov/25520232/online-education-kit-1869-dna-first-isolated>
+3. *1944: DNA is \"Transforming Principle\"*. (n.d.-a). Genome.Gov. Retrieved December 15, 2021, from[ ](https://www.genome.gov/25520250/online-education-kit-1944-dna-is-transforming-principle)<https://www.genome.gov/25520250/online-education-kit-1944-dna-is-transforming-principle>
+4. *1944: DNA is \"Transforming Principle\"*. (n.d.-b). Genome.Gov. Retrieved December 15, 2021, from[ ](https://www.genome.gov/25520250/online-education-kit-1944-dna-is-transforming-principle)<https://www.genome.gov/25520250/online-education-kit-1944-dna-is-transforming-principle>
+5. *Adam Smith From The Wealth of Nations 1776 Of Colonies < 1776-1785 < Documents < American History From Revolution To Reconstruction and beyond*. (n.d.). Retrieved December 15, 2021, from[ ](http://www.let.rug.nl/usa/documents/1776-1785/adam-smith-from-the-wealth-of-nations-1776-of-colonies.php)<http://www.let.rug.nl/usa/documents/1776-1785/adam-smith-from-the-wealth-of-nations-1776-of-colonies.php>
+6. Aert Schouman, Dutch (Dordrecht, Netherlands 1710 - 1792 The Hague, Netherlands). (n.d.). *From the Harvard Art Museums’ collections A Serpentine Plant (Ophioxylum Serpentinum)*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/360614)<https://harvardartmuseums.org/collections/object/360614>
+7. Albert Bierstadt, American (Solingen (near Dusseldorf), Germany 1830 - 1902 New York, NY). (n.d.). *From the Harvard Art Museums’ collections Rocky Mountains, “Lander’s Peak.”* Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/303976)<https://harvardartmuseums.org/collections/object/303976>
+8. *Alchemy , Definition, History, Meaning, & Facts , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/alchemy)<https://www.britannica.com/topic/alchemy>
+9. *An Essay on Man , British Literature Wiki*. (n.d.). Retrieved December 15, 2021, from[ ](https://sites.udel.edu/britlitwiki/an-essay-on-man/)<https://sites.udel.edu/britlitwiki/an-essay-on-man/>
+10. *An Essay on Man , poem by Pope , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/An-Essay-on-Man)<https://www.britannica.com/topic/An-Essay-on-Man>
+11. *Ancient Greek Coinage—World History Encyclopedia*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.worldhistory.org/Greek_Coinage/)<https://www.worldhistory.org/Greek_Coinage/>
+12. André Louis Victor Texier, French (La Rochelle 1777 - 1864 Paris), After Thomas Wyck, Dutch (Beverwijk 1616-1677 Haarlem), & Harvard. (n.d.). *From the Harvard Art Museums’ collections Alchemist’s Laboratory*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/241043)<https://harvardartmuseums.org/collections/object/241043>
+13. Aretz, S., Borowski, A., & Schmeling, S. (2016). A fairytale creation or the beginning of everything: Students’ pre-instructional conceptions about the Big Bang theory. *Perspectives in Science*, *10*, 46–58.[ ](https://doi.org/10.1016/j.pisc.2016.08.003)<https://doi.org/10.1016/j.pisc.2016.08.003>
+14. Avery, O. T., Macleod, C. M., & McCarty, M. (1944). STUDIES ON THE CHEMICAL NATURE OF THE SUBSTANCE INDUCING TRANSFORMATION OF PNEUMOCOCCAL TYPES: INDUCTION OF TRANSFORMATION BY A DESOXYRIBONUCLEIC ACID FRACTION ISOLATED FROM PNEUMOCOCCUS TYPE III. *The Journal of Experimental Medicine*, *79*(2), 137–158.[ ](https://doi.org/10.1084/jem.79.2.137)<https://doi.org/10.1084/jem.79.2.137>
+15. Barton, J., & Muddiman, J. (2001). *The Oxford Bible Commentary*. OUP Oxford.
+16. Bernart Prooijs, Netherlandish. (n.d.). *From the Harvard Art Museums’ collections Wisdom Triumphing over Death, Evil, and Vice*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/294667)<https://harvardartmuseums.org/collections/object/294667>
+17. Betancur, L., Votruba-Drzal, E., & Schunn, C. (2018). Socioeconomic gaps in science achievement. *International Journal of STEM Education*, *5*(1), 38.[ ](https://doi.org/10.1186/s40594-018-0132-5)<https://doi.org/10.1186/s40594-018-0132-5>
+18. *Bible Gateway Genesis 1: NIV*. (n.d.). Retrieved December 15, 2021, from[ ](https://web.mit.edu/jywang/www/cef/Bible/NIV/NIV_Bible/GEN+1.html)<https://web.mit.edu/jywang/www/cef/Bible/NIV/NIV_Bible/GEN+1.html>
+19. *Biographical Overview*. (2019, March 12). Rosalind Franklin - Profiles in Science.[ ](https://profiles.nlm.nih.gov/spotlight/kr/feature/biographical)<https://profiles.nlm.nih.gov/spotlight/kr/feature/biographical>
+20. Bird, A. (2018). Thomas Kuhn. In E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy* (Winter 2018). Metaphysics Research Lab, Stanford University.[ ](https://plato.stanford.edu/archives/win2018/entrieshomas-kuhn/)<https://plato.stanford.edu/archives/win2018/entrieshomas-kuhn/>
+21. *Breaking the Code*. (2011, April 19). Science History Institute.[ ](https://www.sciencehistory.org/distillations/breaking-the-code)<https://www.sciencehistory.org/distillations/breaking-the-code>
+22. Brett Weston, American (Los Angeles, California 1911 - 1993 Hawaii). (n.d.). *From the Harvard Art Museums’ collections Untitled (rock formation)*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/157964)<https://harvardartmuseums.org/collections/object/157964>
+23. Carl Strüwe, German (Bielefeld, Germany 1898 - 1988 Bielefeld, Germany). (n.d.). *From the Harvard Art Museums’ collections Conical Shape. Crystal of Said Hippuric Acid Compound.* Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/355621)<https://harvardartmuseums.org/collections/object/355621>
+24. *Carolus Linnaeus , Biography, Education, Classification System, & Facts , Britannica*. (n.d.-a). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Carolus-Linnaeus)<https://www.britannica.com/biography/Carolus-Linnaeus>
+25. *Carolus Linnaeus , Biography, Education, Classification System, & Facts , Britannica*. (n.d.-b). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/Systema-Naturae)<https://www.britannica.com/topic/Systema-Naturae>
+26. CDC. (2020, August 3). *What is Epigenetics? , CDC*. Centers for Disease Control and Prevention.[ ](https://www.cdc.gov/genomics/disease/epigenetics.htm)<https://www.cdc.gov/genomics/disease/epigenetics.htm>
 
 *Charles Lyell , Biography, Theory, Books, & Facts , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Charles-Lyell)<https://www.britannica.com/biography/Charles-Lyell>
 
