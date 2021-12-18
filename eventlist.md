@@ -4,7 +4,7 @@ Please note: because this page is just the time points/events with the time poin
 ## <em>1500s and 1600s</em>
 - [Between 6th and 5th centuries BC: Approximate writing of <em>the Book of Genesis</em>; Approximately 8 CE: The Metamorphoses, Ovid](https://shanivi.github.io/paradigmshifts/65)
 - [1543: First printing of Copernicus’ <em>On the Revolutions of the Heavenly Spheres</em>](https://shanivi.github.io/paradigmshifts/1543)
-- [1551-1558 and 1587: Conrad Gessner’s <em>History of the Animals</em> published](https://shanivi.github.io/paradigmshifts/1551)
+- [1551-1558 and 1587: Conrad Gesner’s <em>History of the Animals</em> published](https://shanivi.github.io/paradigmshifts/1551)
 - [1620: Francis Bacon’s <em>Novum Organum</em> published](https://shanivi.github.io/paradigmshifts/1620)
 - [1618-1621: Printing of Johannes Kepler’s <em>Epitome Astronomiae Copernicanae</em>](https://shanivi.github.io/paradigmshifts/1618)
 - [1667: Nicolas Steno dissects the head of a shark and publishes his findings](https://shanivi.github.io/paradigmshifts/1667)
@@ -30,7 +30,7 @@ Please note: because this page is just the time points/events with the time poin
 
 ## <em>1900s to now</em>
 - [1928: Frederick Griffith’s showed a “transforming principle,” setting the stage for more inquiry into the building blocks of life](https://shanivi.github.io/paradigmshifts/1928)
-- [1943: Erwin Schroedinger discusses that genetic material most likely resembles an “aperiodic crystal”](https://shanivi.github.io/paradigmshifts/1943)
+- [1943: Erwin Schrodinger discusses that genetic material most likely resembles an “aperiodic crystal”](https://shanivi.github.io/paradigmshifts/1943)
 - [1944: The Avery–MacLeod–McCarty experiment shows that DNA is the “transforming principle”](https://shanivi.github.io/paradigmshifts/1944)
 - [1951-1953: Watson, Crick, Wilkins, and Franklin investigate the structure of DNA; the structure is eventually revealed to be an antiparallel double helix, with Watson and Crick publishing their notable paper in 1953](https://shanivi.github.io/paradigmshifts/1951)
 - [1959: Karl Popper’s <em>The Logic of Scientific Discovery</em> published](https://shanivi.github.io/paradigmshifts/1959)
