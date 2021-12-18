@@ -2,7 +2,7 @@
 Please note: because this page is just the time points/events with the time points/evemts hyperlinked to their respective discussion pages themselves, the numeric citation hyperlinks in the brackets will not link to those specific source hyperlinks, but the numeric citations *still do indeed* map to the complete list of sources (my bibliography) found [here](https://shanivi.github.io/paradigmshifts/sources.html). Additonally, the individual citation hyperlinks work on the "Timeline" page, which is [here](https://shanivi.github.io/paradigmshifts/another-page-cs.html). Thank you!
 
 ## <em>1500s and 1600s</em>
-- [Between 6th and 5th centuries BC: Approximate writing of <em>the Book of Genesis</em> []; Approximately 8 CE: The Metamorphoses, Ovid](https://shanivi.github.io/paradigmshifts/65)
+- [Between 6th and 5th centuries BC: Approximate writing of <em>the Book of Genesis</em>; Approximately 8 CE: The Metamorphoses, Ovid](https://shanivi.github.io/paradigmshifts/65)
 - [1543: First printing of Copernicus’ <em>On the Revolutions of the Heavenly Spheres</em>](https://shanivi.github.io/paradigmshifts/1543)
 - [1551-1558 and 1587: Conrad Gessner’s <em>History of the Animals</em> published](https://shanivi.github.io/paradigmshifts/1551)
 - [1620: Francis Bacon’s <em>Novum Organum</em> published](https://shanivi.github.io/paradigmshifts/1620)
