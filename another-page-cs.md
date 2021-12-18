@@ -26,7 +26,7 @@ nav_order: 2
 
 ### Scientific Paper: A Production of Amino Acids under Possible Primitive Earth Conditions [[124]](https://faculty.jsd.claremont.edu/dmcfarlane/bio145mcfarlane/PDFs/miller_prebiotic%20souppdf.pdf)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/65)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/65)
 
 ***
 
@@ -38,7 +38,7 @@ nav_order: 2
 
 ### Paper: Long-term integrations and stability of planetary orbits in our Solar system [[82]](https://academic.oup.com/mnras/article/336/2/483/1158666)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1543)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1543)
 
 ***
 
@@ -50,7 +50,7 @@ nav_order: 2
 
 ### Paper: [Review: Animal Taxonomy: Theory and Practice] [[165]](https://www.jstor.org/stable/2819440)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1551)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1551)
 
 ***
 
@@ -62,7 +62,7 @@ nav_order: 2
 
 ### Paper: Meta-research: Evaluation and Improvement of Research Methods and Practices [[81]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4592065/)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1620)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1620)
 
 ***
 
@@ -74,7 +74,7 @@ nav_order: 2
 
 ### Paper: GW Ori: circumtriple rings and planets [[69]](https://academic.oup.com/mnras/article-abstract/508/1/392/6371904?redirectedFrom=fulltext)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1618)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1618)
 
 ***
 
@@ -86,7 +86,7 @@ nav_order: 2
 
 ### Paper: Tooth morphology elucidates shark evolution across the end-Cretaceous mass extinction [[185]](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001108)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1667)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1667)
 
 ***
 
@@ -98,7 +98,7 @@ nav_order: 2
 
 ### Paper: Plant diversity in a changing world: Status, trends, and conservation needs [[34]](https://www.sciencedirect.com/science/article/pii/S2468265916300300)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1668)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1668)
 
 ***
 ***
@@ -114,7 +114,7 @@ nav_order: 2
 
 ### Paper: How scientists perceive the evolutionary origin of human traits: Results of a survey study [[186]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5869357/)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1733)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1733)
 
 ***
 
@@ -126,7 +126,7 @@ nav_order: 2
 
 ### Paper: The integrative future of taxonomy [[137]](https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-7-16)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1735)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1735)
 
 ***
 
@@ -138,7 +138,7 @@ nav_order: 2
 
 ### Paper: Increasing returns, monopolistic competition, and international trade [[101]](https://www.sciencedirect.com/science/article/abs/pii/0022199679900175)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1776)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1776)
 
 ***
 
@@ -150,7 +150,7 @@ nav_order: 2
 
 ### Paper: Uniformitarianism. An Inquiry into Principle, Theory, and Method in Geohistory and Biohistory [[161]](https://link.springer.com/chapter/10.1007/978-1-4615-9585-4_2)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1788)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1788)
 
 ***
 
@@ -162,7 +162,7 @@ nav_order: 2
 
 ### Paper: The Early “Evolution” of “Punctuated Equilibria” [[51]](https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-008-0032-0)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1794)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1794)
 
 ***
 
@@ -174,7 +174,7 @@ nav_order: 2
 
 ### Paper: Population, poverty and economic development [[162]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2781831/)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1798)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1798)
 
 ***
 ***
@@ -190,7 +190,7 @@ nav_order: 2
 
 ### Paper: A fairytale creation or the beginning of everything: Students’ pre-instructional conceptions about the Big Bang theory [[11]](https://www.sciencedirect.com/science/article/pii/S2213020916302427)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1802)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1802)
 
 ***
 
@@ -202,7 +202,7 @@ nav_order: 2
 
 ### Paper: Lamarckism and epigenetic inheritance: a clarification [[111]](https://link.springer.com/article/10.1007/s10539-018-9642-2)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1809)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1809)
 
 ***
  
@@ -214,7 +214,7 @@ nav_order: 2
 
 ### Paper: Evolution of the vertebrate skeleton: morphology, embryology, and development [[72]](https://zoologicalletters.biomedcentral.com/articles/10.1186/s40851-014-0007-7)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1816)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1816)
 
 ***
 
@@ -226,7 +226,7 @@ nav_order: 2
 
 ### Paper: Building mountain biodiversity: Geological and evolutionary processes [[153]](https://www.science.org/doi/10.1126/science.aax0151)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1830)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1830)
 
 ***
 
@@ -238,7 +238,7 @@ nav_order: 2
 
 ### Paper: Competition in Science: Links Between Publication Pressure, Grant Pressure and the Academic Job Market [[195]](https://link.springer.com/article/10.1057/s41307-017-0051-y)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1844)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1844)
 
 ***
 
@@ -250,7 +250,7 @@ nav_order: 2
 
 ### Paper: The origin and early evolution of mitochondria [[66]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC138944/)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1858)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1858)
 
 ***
 
@@ -262,7 +262,7 @@ nav_order: 2
 
 ### Paper: Origin and evolution of the adaptive immune system: genetic events and selective pressures [[59]](https://www.nature.com/articles/nrg2703)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1859)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1859)
 
 ***
 
@@ -274,7 +274,7 @@ nav_order: 2
 
 ### Paper: Friedrich Miescher and the discovery of DNA [[38]](https://www.sciencedirect.com/science/article/pii/S0012160604008231)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1869)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1869)
 
 ***
 ***
@@ -290,7 +290,7 @@ nav_order: 2
 
 ### Paper: A Transforming Principle [[58]](https://www.cell.com/fulltext/S0092-8674(05)00042-5)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1928)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1928)
 
 ***
 
@@ -302,7 +302,7 @@ nav_order: 2
 
 ### Paper: What did Erwin mean? The physics of information from the materials genomics of aperiodic crystals and water to molecular information catalysts and life [[192]](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0067)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1943)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1943)
 
 ***
 
@@ -314,7 +314,7 @@ nav_order: 2
 
 ### Paper: Studies on the Chemical Nature of the Substance Inducing Transformation of Pneumococcal Types [[12]](https://pubmed.ncbi.nlm.nih.gov/19871359/)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1944)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1944)
 
 ***
 
@@ -326,7 +326,7 @@ nav_order: 2
 
 ### Paper: Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid [[196]](https://www.nature.com/articles/171737a0)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1951)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1951)
 
 ***
 
@@ -338,7 +338,7 @@ nav_order: 2
 
 ### Paper: The most important application of science [[159]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4198034/)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1959)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1959)
 
 ***
 
@@ -350,7 +350,7 @@ nav_order: 2
 
 ### Paper: The dependence of cell-free protein synthesis in E. coli upon naturally occurring or synthetic polyribonucleotides [[132]](https://www.pnas.org/content/47/10/1588)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1961)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1961)
 
 ***
 
@@ -362,7 +362,7 @@ nav_order: 2
 
 ### Paper: Socioeconomic gaps in science achievement [[15]](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-018-0132-5)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1962)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1962)
 
 ***
 
@@ -374,7 +374,7 @@ nav_order: 2
 
 ### Paper: Nothing in Biology Makes Sense except in the Light of Evolution [[49]](https://online.ucpress.edu/abt/article/35/3/125/9833/Nothing-in-Biology-Makes-Sense-except-in-the-Light)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/1973)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/1973)
 
 ***
 
@@ -386,7 +386,7 @@ nav_order: 2
 
 ### Paper: A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity [[85]](https://pubmed.ncbi.nlm.nih.gov/22745249/)
 
-[Read the full explanation here](https://shanivi.github.io/paradigmshifts/2020)
+### [Read the full explanation here](https://shanivi.github.io/paradigmshifts/2020)
 
 
 
