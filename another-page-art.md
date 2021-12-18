@@ -5,7 +5,9 @@ title: VR Art
 nav_order: 1
 ---
 
-## To access the VR Art Gallery, click [here](https://shanivi.github.io/darwin/)
+# To access the VR Art Gallery, click [here](https://shanivi.github.io/darwin/)
+
+![pic](/images/gallery.png)
 
 Because I cannot package down a museum to send to you, I thought that a VR art gallery would be a good alternative. Upon clicking the link, you'll notice that the you're standing in what looks like a forest — I used this backdrop to show the amazingly large amount of biodiversity there is in forests, with many different organisms occupying so many different niches. Moreover, I also wanted this forest theme to act as a callback to Darwin's time in the Galapagos, amongst the flora and fauna of the region which was so influential to him in his monumental work, The Origin of Species. In fact, all of the different gallery rooms are specifically themed, but more on that later.
 
