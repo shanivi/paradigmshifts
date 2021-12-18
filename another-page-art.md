@@ -5,7 +5,7 @@ title: VR Art
 nav_order: 1
 ---
 
-# To access the VR Art Gallery, click [here](https://shanivi.github.io/darwin/)
+# Click [here](https://shanivi.github.io/darwin/) for the VR Art Gallery!
 
 ![pic](/images/gallery.png)
 
