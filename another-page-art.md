@@ -5,7 +5,7 @@ title: VR Art
 nav_order: 1
 ---
 
-# Enter [here](https://shanivi.github.io/darwin/)!
+# [Enter](https://shanivi.github.io/darwin/)!
 
 ![pic](/images/gallery.png)
 
