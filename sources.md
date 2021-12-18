@@ -6,7 +6,7 @@ nav_order: 3
 ---
 
 ## This page has all of the primary sources that I used in this project.
-### Please note: in addition to having this source list, I've also hyperlinked the primary source itself (when possible) to the place I was referencing it throughout all of my explanations. All sources are cited in APA 7 citation formatting and are listed below in alphabetical order, I used Zotero to generate this bibliograhy.
+### Please note: in addition to having this source list, I've also hyperlinked the primary source itself (when possible) in brackets with the number to the place I was referencing it throughout all of my explanations. All sources are cited in APA 7 citation formatting and are listed below in alphabetical order, I used Zotero to generate this bibliograhy.
 
 1. *1869: DNA First Isolated*. (n.d.-b). Genome.Gov. Retrieved December 15, 2021, from[ ](https://www.genome.gov/25520232/online-education-kit-1869-dna-first-isolated)<https://www.genome.gov/25520232/online-education-kit-1869-dna-first-isolated>
 2. *1944: DNA is \"Transforming Principle\"*. (n.d.-b). Genome.Gov. Retrieved December 15, 2021, from[ ](https://www.genome.gov/25520250/online-education-kit-1944-dna-is-transforming-principle)<https://www.genome.gov/25520250/online-education-kit-1944-dna-is-transforming-principle>
