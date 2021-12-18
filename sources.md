@@ -186,58 +186,30 @@ nav_order: 3
 176.  *The Life of Raphael*. (2020, January 16). Wall Street International.[ ](https://wsimag.com/art/60285-the-life-of-raphael)<https://wsimag.com/art/60285-the-life-of-raphael>
 177.  *The Nobel Prize in Physiology or Medicine 1962*. (n.d.-a). NobelPrize.Org. Retrieved December 15, 2021, from[ ](https://www.nobelprize.org/prizes/medicine/1962/perspectives/)<https://www.nobelprize.org/prizes/medicine/1962/perspectives/>
 178.  *The Nobel Prize in Physiology or Medicine 1962*. (n.d.-b). NobelPrize.Org. Retrieved December 15, 2021, from[ ](https://www.nobelprize.org/prizes/medicine/1962/wilkins/biographical/)<https://www.nobelprize.org/prizes/medicine/1962/wilkins/biographical/>
-
-*The Observatory*. (n.d.). Retrieved December 15, 2021, from[ ](http://www.hcs.harvard.edu/~stahr/?page_id=542)<http://www.hcs.harvard.edu/~stahr/?page_id=542>
-
-*Theodosius Dobzhansky , American scientist , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Theodosius-Dobzhansky)<https://www.britannica.com/biography/Theodosius-Dobzhansky>
-
-*Theory of the Earth , work by Hutton , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/Theory-of-the-Earth)<https://www.britannica.com/topic/Theory-of-the-Earth>
-
-*Thomas Kuhn Paradigm Shift , Simply Psychology*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.simplypsychology.org/Kuhn-Paradigm.html)<https://www.simplypsychology.org/Kuhn-Paradigm.html>
-
-*Thomas Malthus , Biography, Theory, Overpopulation, Poverty, & Facts , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Thomas-Malthus)<https://www.britannica.com/biography/Thomas-Malthus>
-
-Thomas Robert Malthus. (n.d.). *An Essay on the Principle of Population*. Econlib. Retrieved December 15, 2021, from[ ](https://www.econlib.org/library/Malthus/malPlong.html)<https://www.econlib.org/library/Malthus/malPlong.html>
-
-*Tooth morphology elucidates shark evolution across the end-Cretaceous mass extinction*. (n.d.). Retrieved December 15, 2021, from[ ](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001108)<https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001108>
-
-Tuomisto, H., Tuomisto, M., & Tuomisto, J. T. (2018). How scientists perceive the evolutionary origin of human traits: Results of a survey study. *Ecology and Evolution*, *8*(6), 3518–3533.[ ](https://doi.org/10.1002/ece3.3887)<https://doi.org/10.1002/ece3.3887>
-
-Turner, F. M. (Frank M. (2002). Victorian Sensation: The Extraordinary Publication, Reception, and Secret Authorship of Vestiges of the Natural History of Creation (review). *Journal of Interdisciplinary History*, *33*(2), 292–293.
-
-Unidentified Artists. (n.d.). *From the Harvard Art Museums’ collections Government, City: United States: Social Conditions, United States: Census of 1900: Proportion of Urban to Total Population, by States and Territories, at each Census.* Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/18637)<https://harvardartmuseums.org/collections/object/18637>
-
-*Uniformitarianism , National Geographic Society*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.nationalgeographic.org/encyclopedia/uniformitarianism/)<https://www.nationalgeographic.org/encyclopedia/uniformitarianism/>
-
-*Unit 3 Detail 3 Review.pdf*. (n.d.). Retrieved December 15, 2021, from[ ](http://www.csun.edu/~sr6161/world/unit%203/Unit%203%20Detail%203%20Review.pdf)<http://www.csun.edu/~sr6161/world/unit%203/Unit%203%20Detail%203%20Review.pdf>
-
-Valentine Green, British (1739 - 1813), After John Singleton Copley, American (Boston, MA 1738 - 1815 London, England), Published by Valentine Green, British (1739 - 1813), & Harvard. (n.d.). *From the Harvard Art Museums’ collections Youth Saved from a Shark*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/277538)<https://harvardartmuseums.org/collections/object/277538>
-
-Varn, D. P., & Crutchfield, J. P. (2016). What did Erwin mean? The physics of information from the materials genomics of aperiodic crystals and water to molecular information catalysts and life. *Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences*, *374*(2063), 20150067.[ ](https://doi.org/10.1098/rsta.2015.0067)<https://doi.org/10.1098/rsta.2015.0067>
-
-Veigl, S. J., Harman, O., & Lamm, E. (2020). Friedrich Miescher’s Discovery in the Historiography of Genetics: From Contamination to Confusion, from Nuclein to DNA. *Journal of the History of Biology*, *53*(3), 451–484.[ ](https://doi.org/10.1007/s10739-020-09608-3)<https://doi.org/10.1007/s10739-020-09608-3>
-
-*Vestiges of the Natural History of Creation, by Robert Chambers*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.gutenberg.org/files/7116/7116-h/7116-h.htm)<https://www.gutenberg.org/files/7116/7116-h/7116-h.htm>
-
-Waaijer, C. J. F., Teelken, C., Wouters, P. F., & van der Weijden, I. C. M. (2018). Competition in Science: Links Between Publication Pressure, Grant Pressure and the Academic Job Market. *Higher Education Policy*, *31*(2), 225–243.[ ](https://doi.org/10.1057/s41307-017-0051-y)<https://doi.org/10.1057/s41307-017-0051-y>
-
-Watson, J. D., & Crick, F. H. C. (1953). Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid. *Nature*, *171*(4356), 737–738.[ ](https://doi.org/10.1038/171737a0)<https://doi.org/10.1038/171737a0>
-
-*Watson\_The\_Double\_Helix.pdf*. (n.d.). Retrieved December 15, 2021, from[ ](http://sites.bu.edu/manove-ec101/files/2017/09/Watson_The_Double_Helix.pdf)<http://sites.bu.edu/manove-ec101/files/2017/09/Watson_The_Double_Helix.pdf>
-
-*Wave motion , physics , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/science/wave-motion)<https://www.britannica.com/science/wave-motion>
-
-*What Charles Darwin read on the “Beagle” , FifteenEightyFour , Cambridge University Press*. (n.d.). Retrieved December 15, 2021, from[ ](http://www.cambridgeblog.org/2014/11/what-charles-darwin-read-on-the-beagle/)<http://www.cambridgeblog.org/2014/11/what-charles-darwin-read-on-the-beagle/>
-
-*What is CRISPR? , New Scientist*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.newscientist.com/definition/what-is-crispr/)<https://www.newscientist.com/definition/what-is-crispr/>
-
-*William Paley and the Divine Watchmaker*. (n.d.). OpenLearn. Retrieved December 15, 2021, from[ ](https://www.open.edu/openlearn/history-the-arts/culture/philosophy/william-paley-and-the-divine-watchmaker)<https://www.open.edu/openlearn/history-the-arts/culture/philosophy/william-paley-and-the-divine-watchmaker>
-
-William Rimmer, American (Liverpool, England 1816 - 1879 S. Milford, MA). (n.d.). *From the Harvard Art Museums’ collections Nude Male, for “Sadak...”, and Seated Figure; verso: Figure and Animal Sketches*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/306610)<https://harvardartmuseums.org/collections/object/306610>
-
-*Zoonomia ; or, The laws of organic life.pdf*. (n.d.). Retrieved December 15, 2021, from[ ](http://darwin-online.org.uk/converted/pdf/1794_Zoonomia_A967.1.pdf)<http://darwin-online.org.uk/converted/pdf/1794_Zoonomia_A967.1.pdf>
-
-
-
+179.  *The Observatory*. (n.d.). Retrieved December 15, 2021, from[ ](http://www.hcs.harvard.edu/~stahr/?page_id=542)<http://www.hcs.harvard.edu/~stahr/?page_id=542>
+180.  *Theodosius Dobzhansky , American scientist , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Theodosius-Dobzhansky)<https://www.britannica.com/biography/Theodosius-Dobzhansky>
+181.  *Theory of the Earth , work by Hutton , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/topic/Theory-of-the-Earth)<https://www.britannica.com/topic/Theory-of-the-Earth>
+182.  *Thomas Kuhn Paradigm Shift , Simply Psychology*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.simplypsychology.org/Kuhn-Paradigm.html)<https://www.simplypsychology.org/Kuhn-Paradigm.html>
+183.  *Thomas Malthus , Biography, Theory, Overpopulation, Poverty, & Facts , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/biography/Thomas-Malthus)<https://www.britannica.com/biography/Thomas-Malthus>
+184.  Thomas Robert Malthus. (n.d.). *An Essay on the Principle of Population*. Econlib. Retrieved December 15, 2021, from[ ](https://www.econlib.org/library/Malthus/malPlong.html)<https://www.econlib.org/library/Malthus/malPlong.html>
+185.  *Tooth morphology elucidates shark evolution across the end-Cretaceous mass extinction*. (n.d.). Retrieved December 15, 2021, from[ ](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001108)<https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001108>
+186.  Tuomisto, H., Tuomisto, M., & Tuomisto, J. T. (2018). How scientists perceive the evolutionary origin of human traits: Results of a survey study. *Ecology and Evolution*, *8*(6), 3518–3533.[ ](https://doi.org/10.1002/ece3.3887)<https://doi.org/10.1002/ece3.3887>
+187.  Turner, F. M. (Frank M. (2002). Victorian Sensation: The Extraordinary Publication, Reception, and Secret Authorship of Vestiges of the Natural History of Creation (review). *Journal of Interdisciplinary History*, *33*(2), 292–293.
+188.  Unidentified Artists. (n.d.). *From the Harvard Art Museums’ collections Government, City: United States: Social Conditions, United States: Census of 1900: Proportion of Urban to Total Population, by States and Territories, at each Census.* Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/18637)<https://harvardartmuseums.org/collections/object/18637>
+189.  *Uniformitarianism , National Geographic Society*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.nationalgeographic.org/encyclopedia/uniformitarianism/)<https://www.nationalgeographic.org/encyclopedia/uniformitarianism/>
+190.  *Unit 3 Detail 3 Review.pdf*. (n.d.). Retrieved December 15, 2021, from[ ](http://www.csun.edu/~sr6161/world/unit%203/Unit%203%20Detail%203%20Review.pdf)<http://www.csun.edu/~sr6161/world/unit%203/Unit%203%20Detail%203%20Review.pdf>
+191.  Valentine Green, British (1739 - 1813), After John Singleton Copley, American (Boston, MA 1738 - 1815 London, England), Published by Valentine Green, British (1739 - 1813), & Harvard. (n.d.). *From the Harvard Art Museums’ collections Youth Saved from a Shark*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/277538)<https://harvardartmuseums.org/collections/object/277538>
+192.  Varn, D. P., & Crutchfield, J. P. (2016). What did Erwin mean? The physics of information from the materials genomics of aperiodic crystals and water to molecular information catalysts and life. *Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences*, *374*(2063), 20150067.[ ](https://doi.org/10.1098/rsta.2015.0067)<https://doi.org/10.1098/rsta.2015.0067>
+193.  Veigl, S. J., Harman, O., & Lamm, E. (2020). Friedrich Miescher’s Discovery in the Historiography of Genetics: From Contamination to Confusion, from Nuclein to DNA. *Journal of the History of Biology*, *53*(3), 451–484.[ ](https://doi.org/10.1007/s10739-020-09608-3)<https://doi.org/10.1007/s10739-020-09608-3>
+194.  *Vestiges of the Natural History of Creation, by Robert Chambers*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.gutenberg.org/files/7116/7116-h/7116-h.htm)<https://www.gutenberg.org/files/7116/7116-h/7116-h.htm>
+195.  Waaijer, C. J. F., Teelken, C., Wouters, P. F., & van der Weijden, I. C. M. (2018). Competition in Science: Links Between Publication Pressure, Grant Pressure and the Academic Job Market. *Higher Education Policy*, *31*(2), 225–243.[ ](https://doi.org/10.1057/s41307-017-0051-y)<https://doi.org/10.1057/s41307-017-0051-y>
+196.  Watson, J. D., & Crick, F. H. C. (1953). Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid. *Nature*, *171*(4356), 737–738.[ ](https://doi.org/10.1038/171737a0)<https://doi.org/10.1038/171737a0>
+197.  *Watson\_The\_Double\_Helix.pdf*. (n.d.). Retrieved December 15, 2021, from[ ](http://sites.bu.edu/manove-ec101/files/2017/09/Watson_The_Double_Helix.pdf)<http://sites.bu.edu/manove-ec101/files/2017/09/Watson_The_Double_Helix.pdf>
+198.  *Wave motion , physics , Britannica*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.britannica.com/science/wave-motion)<https://www.britannica.com/science/wave-motion>
+199.  *What Charles Darwin read on the “Beagle” , FifteenEightyFour , Cambridge University Press*. (n.d.). Retrieved December 15, 2021, from[ ](http://www.cambridgeblog.org/2014/11/what-charles-darwin-read-on-the-beagle/)<http://www.cambridgeblog.org/2014/11/what-charles-darwin-read-on-the-beagle/>
+200.  *What is CRISPR? , New Scientist*. (n.d.). Retrieved December 15, 2021, from[ ](https://www.newscientist.com/definition/what-is-crispr/)<https://www.newscientist.com/definition/what-is-crispr/>
+201.  *William Paley and the Divine Watchmaker*. (n.d.). OpenLearn. Retrieved December 15, 2021, from[ ](https://www.open.edu/openlearn/history-the-arts/culture/philosophy/william-paley-and-the-divine-watchmaker)<https://www.open.edu/openlearn/history-the-arts/culture/philosophy/william-paley-and-the-divine-watchmaker>
+202.  William Rimmer, American (Liverpool, England 1816 - 1879 S. Milford, MA). (n.d.). *From the Harvard Art Museums’ collections Nude Male, for “Sadak...”, and Seated Figure; verso: Figure and Animal Sketches*. Retrieved December 15, 2021, from[ ](https://harvardartmuseums.org/collections/object/306610)<https://harvardartmuseums.org/collections/object/306610>
+203.  *Zoonomia ; or, The laws of organic life.pdf*. (n.d.). Retrieved December 15, 2021, from[ ](http://darwin-online.org.uk/converted/pdf/1794_Zoonomia_A967.1.pdf)<http://darwin-online.org.uk/converted/pdf/1794_Zoonomia_A967.1.pdf>
 
 
